@@ -2,26 +2,33 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Borneo IoT Products"
+  text: "The most advanced and affordable open-source LED lighting and other automated smart IoT solutions for aquariums."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
+      title: "Multi-Channel LED Controllers"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
+      title: "Mobile App"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "5-Channel LED for Demo"
+      text: "An open-source hardware 5-channel LED aquarium light for the LED controller demonstration. Suitable for freshwater tanks."
+      button:
+        label: "I'm sold, now what?"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Multi-Channel Doser"
+      text: "Under development..."
       button:
         label: "Learn more"
         url: "#"

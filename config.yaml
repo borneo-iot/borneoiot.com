@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Borneo IoT"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "The most advanced and affordable open-source LED lighting and other automated smart IoT solutions for aquariums."
   images:
     - "images/hero-image.jpg"
 
