@@ -23,7 +23,7 @@ content:
       title: "5-Channel LED for Demo"
       text: "An open-source hardware 5-channel LED aquarium light for the LED controller demonstration. Suitable for freshwater tanks."
       button:
-        label: "I'm sold, now what?"
+        label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
