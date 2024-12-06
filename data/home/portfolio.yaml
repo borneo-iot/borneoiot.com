@@ -4,7 +4,7 @@ id: "portfolio"
 content:
   - image: "images/products/app/app-mocks.png"
     title: "Fully Featured"
-    text: "The Borneo IoT Aquarium Controller is fully featured and available at a cost affordable for DIY hobbyist. Being DIY-friendly does not mean it is crude, it is also designed with mass production in mind."
+    text: "The Borneo IoT Project is fully featured and available at a cost affordable for DIY hobbyist. Being DIY-friendly does not mean it is crude, it is also designed with mass production in mind."
     buttons:
       - label: "Read more"
         url: "#"
@@ -16,4 +16,14 @@ content:
     buttons:
       - label: "Read more"
         url: "#"
+
+  - image: "images/products/app/app-mocks.png"
+    title: "Get Started"
+    text: "TBD."
+
+    buttons:
+      - label: "Documentation"
+        url: "https://docs.borneoiot.com"
+      - label: "GitHub Discussions"
+        url: "https://github.com/oldrev/borneo/discussions"
 

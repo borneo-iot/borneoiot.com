@@ -39,3 +39,10 @@ content:
       button:
         label: "Learn more"
         url: "products/doser-4"
+
+    - image: "images/services-web-development.png"
+      title: "Cloud Services"
+      text: "Under development..."
+      button:
+        label: "Learn more"
+        url: "products/doser-4"
