@@ -5,16 +5,16 @@ content:
   title: "Borneo IoT Products"
   text: "The most advanced and affordable open-source LED lighting and other automated smart IoT solutions for aquariums."
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/products/blc10/blc10-title.jpg"
       title: "Multi-Channel LED Controllers"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "A DIY-friendly embedded multi-channel PWM LED controller comes with open-source schematic, PCB layout and firmware source code."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/products/app/app-mocks.png"
       title: "Mobile App"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "A open-source mobile application for connecting and controlling Borneo IoT aquarium devices, supporting advanced features such as scene modes and device grouping."
       button:
         label: "Learn more"
         url: "#"
@@ -26,7 +26,7 @@ content:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/products/doser-4/doser-4-title.png"
       title: "Multi-Channel Doser"
       text: "Under development..."
       button:
