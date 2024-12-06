@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/products/app/app-mocks.png"
       title: "Mobile App"
-      text: "A open-source mobile application for connecting and controlling Borneo IoT aquarium devices, supporting advanced features such as scene modes and device grouping."
+      text: "The open-source mobile application for connecting and controlling Borneo IoT aquarium devices, supporting advanced features such as scene modes and device grouping."
       button:
         label: "Learn more"
         url: "#"
