@@ -13,8 +13,15 @@ content:
         url: "#"
 
     - image: "images/products/blc10/blc10-title.jpg"
-      title: "Multi-Channel LED PWM Controllers"
+      title: "BLC05: 5-Channel LED PWM Controller"
       text: "A DIY-friendly embedded multi-channel LED PWM controller comes with open-source schematic, PCB layout and firmware source code."
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/products/blc10e/blc10e-title.jpg"
+      title: "BLC10E: 10-Channel LED PWM Controller"
+      text: "Under development..."
       button:
         label: "Learn more"
         url: "#"
