@@ -24,9 +24,8 @@ params:
   social:
     #dribbble: "#"
     #instagram: "#"
-    #facebook: "#"
+    github: "https://github.com/oldrev/borneo"
     twitter: "https://x.com/oldrev"
-    github: "https://github.com/oldrev"
 
   location:
     - "TBD"
@@ -36,11 +35,11 @@ params:
 
   copyright: "Copyright © Li Wei. All Rights Reserved"
 
-#menus:
-#  main:
-#    - name: "Home"
-#      url: "/#hero"
-#      weight: 1
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
 
 #    - name: "How we work"
 #      url: "/#"
@@ -54,20 +53,24 @@ params:
 #      url: "/#"
 #      weight: 4
 
-#    - name: "Blog"
-#      url: "/blog"
-#      weight: 5
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
 
-#  buttons:
-#    - name: "Book a call"
-#      url: "/#"
-#      weight: 5
-#      pre: "btn btn-primary text-light"
+    - name: "About"
+      url: "/about"
+      weight: 10
 
-#  footer:
-#    - name: "Home"
-#      url: "/#hero"
-#      weight: 1
+  buttons:
+    - name: "View in GitHub"
+      url: "https://github.com/oldrev/borneo"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
 
 #    - name: "How we work"
 #      url: "/#"
@@ -81,9 +84,9 @@ params:
 #      url: "/#"
 #      weight: 4
 
-#    - name: "Blog"
-#      url: "/blog"
-#      weight: 5
+    - name: "Blog"
+      url: "/blog"
+      weight: 5
 
 taxonomies:
   series: "series"

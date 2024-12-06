@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "Under Construction"
+  title: "**Under** Construction"
   text: "I'm currently working hard to bring you the best open-source aquarium IoT solutions."
 
   buttonPrimary:

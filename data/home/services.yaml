@@ -6,8 +6,8 @@ content:
   text: "The most advanced and affordable open-source LED lighting and other automated smart IoT solutions for aquariums."
   cards:
     - image: "images/products/blc10/blc10-title.jpg"
-      title: "Multi-Channel LED Controllers"
-      text: "A DIY-friendly embedded multi-channel PWM LED controller comes with open-source schematic, PCB layout and firmware source code."
+      title: "Multi-Channel LED PWM Controllers"
+      text: "A DIY-friendly embedded multi-channel LED PWM controller comes with open-source schematic, PCB layout and firmware source code."
       button:
         label: "Learn more"
         url: "#"
@@ -31,4 +31,4 @@ content:
       text: "Under development..."
       button:
         label: "Learn more"
-        url: "#"
+        url: "products/doser-4"

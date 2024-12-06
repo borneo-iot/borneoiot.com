@@ -1,25 +1,40 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Borneo IoT, the most advanced open-source full-stack aquarium IoT solutions"
+date = "2024-12-6"
+aliases = ["about-us", "about-borneoiot", "contact"]
+author = "Li Wei"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Borneo IoT is a full-stack open-source WiFi multi-channel PWM LED solution.
 
-Hugo makes use of a variety of open source projects including:
+## Features
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### Full-stack
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+From the hardware design, to the mobile app, everything is open-source, this project includes:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- ESP32-C3 based 5-channel LED PWM controller board design.
+- ESP32-PICO-V3 based 10-channel LED PWM controller board design.
+- 5-channel demo/dev board.
+- Firmware developed based on the ESP-IDF framework.
+- An easy-to-use mobile app developed using Flutter.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### Feature-rich
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- Provides 5~10 channel PWM dimming signals.
+- Multi-segment lighting for sunrise and sunset.
+- PID automatic temperature control for cooling fans.
+- Comprehensive automatic protection features.
+- Based on CoAP and CBOR protocol, it provides a Python client library and demo scripts.
+- And much more.
+
+### Budget-friendly
+
+- The MCU uses the popular ESP32-C3 (5-channel edition) or ESP32 (up to 10-channel edition), with no special components required.
+- By using the built-in PWM-DAC voltage regulation circuit, it can directly drive cheap two-wire fans for speed control. It also supports PWM fans.
+
+### Field-proven
+
+I created a prototype LED light using this circuit design and firmware and have been running it for years.
+
