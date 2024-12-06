@@ -1,39 +1,19 @@
-enabled: false
+enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
+  - image: "images/hero-image.jpg"
+    title: "Fully Featured"
+    text: "The Borneo IoT Aquarium Controller is fully featured and available at a cost affordable for DIY hobbyist. Being DIY-friendly does not mean it is crude, it is also designed with mass production in mind."
+    buttons:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/hero-image.jpg"
+    title: "Everything is Open Source"
+    text: "From the circuit design, firmware, to the mobile app, everything is an open-source project, designed and developed using open-source tools. I have done the most challenging and labor-intensive part for you, so you can easily customize the rest according to your needs."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
-
+    buttons:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
