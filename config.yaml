@@ -57,6 +57,10 @@ menus:
       url: "/blog"
       weight: 5
 
+    - name: "Documentation"
+      url: "https://docs.borneoiot.com"
+      weight: 9
+
     - name: "About"
       url: "/about"
       weight: 10
@@ -87,6 +91,14 @@ menus:
     - name: "Blog"
       url: "/blog"
       weight: 5
+
+    - name: "Documentation"
+      url: "https://docs.borneoiot.com"
+      weight: 9
+
+    - name: "About"
+      url: "/about"
+      weight: 10
 
 taxonomies:
   series: "series"
