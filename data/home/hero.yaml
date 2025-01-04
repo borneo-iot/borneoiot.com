@@ -2,8 +2,8 @@ enabled: true
 id: "hero"
 
 content:
-  title: "**Under** Construction"
-  text: "I'm currently working hard to bring you the best open-source aquarium IoT solutions."
+  title: "An **open source** aquarium LED"
+  text: "Borneo-IoT project is a commercial-grade, highly customizable open source WiFi aquarium LED solution hardware and software."
 
   buttonPrimary:
     label: "Check the GitHub repo out"

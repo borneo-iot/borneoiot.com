@@ -11,15 +11,17 @@ content:
 
   - image: "images/products/app/app-mocks.png"
     title: "Everything is Open Source"
-    text: "From the circuit design to the firmware, and even the mobile app, everything is an open-source project, designed and developed using open-source tools. I have already done the most challenging and labor-intensive part for you, so you can easily customize the rest according to your needs."
-
+    text: "From the circuit design to the firmware, and even the mobile app, everything is open-source and designed and developed using open-source tools. I have already done the most challenging and labor-intensive part for you, so you can easily customize the rest according to your needs."
     buttons:
-      - label: "Read more"
-        url: "#"
+      - label: "See the GitHub Project"
+        url: "https://github.com/oldrev/borneo"
 
   - image: "images/products/app/app-mocks.png"
     title: "Get Started"
     text: "TBD."
+    buttons:
+      - label: "Read more"
+        url: "https://docs.borneoiot.com/getting-started"
 
     buttons:
       - label: "Documentation"

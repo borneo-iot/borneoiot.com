@@ -10,11 +10,14 @@ summaryLength: 20
 
 params:
   title: "Borneo IoT"
-  description: "A based open-source full-stack LED lighting and other automated smart IoT solutions for aquariums."
+  description: "An open source full-stack LED and other smart IoT kits for aquarium."
   images:
-    - "images/hero-image.jpg"
+    - "images/borneo-hero.jpg"
 
   logo: "logo.png"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
 
   favicons:
     themeColor: "#FFFFFF"
@@ -31,7 +34,7 @@ params:
     - "TBD"
 
   contact:
-    - "oldrev@gmail.com"
+    - "E-mail: oldrev@gmail.com"
 
   copyright: "Copyright © Li Wei. All Rights Reserved"
 
@@ -103,3 +106,5 @@ menus:
 taxonomies:
   series: "series"
   tags: "tags"
+  year: "year"
+  month: "month"
