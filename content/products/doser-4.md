@@ -1,5 +1,5 @@
 ---
-title: 'Borneo 4-Channel Doser'
+title: 'Borneo-IoT 4-Channel Doser'
 button: 'Doser-4'
 weight: 2
 ---

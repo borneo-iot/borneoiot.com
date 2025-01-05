@@ -2,15 +2,15 @@ enabled: true
 id: "services"
 
 content:
-  title: "Borneo IoT Components"
-  text: "The most advanced and affordable open-source LED lighting and other automated smart IoT solutions for aquariums."
+  title: "Borneo-IoT Components"
+  text: "Borneo-IoT is more than just an open source aquarium LED light."
   cards:
     - image: "images/products/app/app-mocks.png"
       title: "Mobile App"
-      text: "The open-source mobile application for connecting and controlling Borneo IoT aquarium devices, supporting advanced features such as scene modes and device grouping."
+      text: "The open source mobile app for connecting and controlling Borneo-IoT aquarium devices, supporting advanced features such as scene modes and device grouping."
       button:
         label: "Learn more"
-        url: "#"
+        url: "products/borneo-app"
 
     - image: "images/products/blc10/blc10-title.jpg"
       title: "BLC05MK3: 5-Channel WiFi LED PWM Controller"

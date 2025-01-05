@@ -2,8 +2,8 @@ enabled: false
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Interested? Please follow the documentation below to learn how to DIY your own WiFi aquarium LED like a pro."
+  image: "images/home/getting-started.png"
   button:
     label: "Let's talk"
     url: "#"

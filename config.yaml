@@ -8,6 +8,12 @@ googleAnalytics: "G-HPQMWJZL8M"
 
 summaryLength: 20
 
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      footnote: true
+
 params:
   title: "Borneo IoT"
   description: "An open source full-stack LED and other smart IoT kits for aquarium."
@@ -65,7 +71,7 @@ menus:
       weight: 9
 
     - name: "About"
-      url: "/about"
+      url: "/homepage/about"
       weight: 10
 
   buttons:
@@ -100,7 +106,7 @@ menus:
       weight: 9
 
     - name: "About"
-      url: "/about"
+      url: "/homepage/about"
       weight: 10
 
 taxonomies:
