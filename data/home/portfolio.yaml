@@ -2,21 +2,21 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/home/fully-features-app.png"
+  - image: "images/homepage/fully-features-app.png"
     title: "Fully Featured"
     text: "The Borneo IoT Project is fully featured and available at a cost affordable for DIY hobbyist. Being DIY-friendly does not mean it is crude, it is also designed with mass production in mind."
     buttons:
       - label: "Learn more"
-        url: "/about"
+        url: "/homepage/about"
 
-  - image: "images/home/open-source.png"
+  - image: "images/homepage/open-source.png"
     title: "Everything is Open Source"
     text: "From the circuit design to the firmware, and even the mobile app, everything is open-source and designed and developed using open-source tools. I have already done the most challenging and labor-intensive part for you, so you can easily customize the rest according to your needs."
     buttons:
       - label: "See the GitHub Project"
         url: "https://github.com/oldrev/borneo"
 
-  - image: "images/home/getting-started.png"
+  - image: "images/homepage/getting-started.png"
     title: "Getting Started"
     text: "Interested? Please follow the documentation below to learn how to DIY your own WiFi aquarium LED like a pro."
     buttons:

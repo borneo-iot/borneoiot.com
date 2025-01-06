@@ -1,12 +1,12 @@
 ---
 title: 'Borneo-IoT Mobile App'
-button: 'Doser-4'
+button: 'Mobile App'
 weight: 2
 ---
 
 Borneo IoT Mobile App is the mobile App developed by Borneo IoT project, used as the controller for smart WiFi IoT devices.
 
-![Doser-4](/images/products/app/app-mocks.png)
+![AppScreenshots](/images/products/app/app-mocks.png)
 
 - Cross-platform app developed in Flutter, supports: Android/iOS/Windows/Linux/MacOS
 - Scene management, allowing switching between different locations to control different devices

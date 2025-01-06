@@ -42,4 +42,9 @@ Borneo-IoT project is a commercial-grade, highly customizable open-source smart 
 
 And much more, such as a dosing pump and pH monitor currently under development based on this firmware and app architecture.
 
+___
+
+![For Bear](/images/homepage/forbear.png)
+
+
 [^1]: The open-source project does not provide mass production-related tools and software.
