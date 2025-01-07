@@ -1,0 +1,24 @@
+logo_image:
+menuitems:
+  - title: About
+    link:  /about/
+  - title: Features
+    link:  /features/
+  - title: Blog
+    link:  /blog/
+  - title: Privacy policy
+    link:  /privacy-policy/
+socials:
+  - title: GitHub
+    link: https://github.com/oldrev/borneo
+    logo_image: /img/github-mark.svg
+  - title: Twitter/X.com
+    link: https://x.com/oldrev
+    logo_image: /img/twitter.svg
+  - title: Discord
+    link: https://discord.gg/25mK6KAc
+    logo_image: /img/discord-mark-black.svg
+  - title: Youtube (Chinese only)
+    link: https://www.youtube.com/@mingshuzhaji
+    logo_image: /img/youtube_button.svg
+footer_text: Copyright © 2024-2025 Li Wei. All rights reserved.

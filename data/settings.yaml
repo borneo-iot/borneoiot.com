@@ -1,0 +1,13 @@
+favicon_image: /uploads/branding/borneo-logo.svg
+color_name:
+sticky_header: true
+dark_header: true
+dark_footer: true
+customcursor: false
+intersectionobserver: true
+filter_has_numbers: true
+page_size: 3
+show_all_services: false
+preheader:
+  active: false
+  is_light: false

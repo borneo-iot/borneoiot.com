@@ -1,113 +1,54 @@
-baseURL: "https://www.example.com/"
-theme: "up-business-theme"
-languageCode: "en-us"
-
-title: "Borneo IoT"
-
-googleAnalytics: "G-HPQMWJZL8M"
-
-summaryLength: 20
+baseURL: https://www.borneoiot.com
+theme: hugobricks
+defaultContentLanguage: en
+assetDir: static
 
 markup:
-  defaultMarkdownHandler: goldmark
   goldmark:
+    renderer:
+      unsafe: true
     extensions:
-      footnote: true
+      extras:
+        insert:
+          enable: true
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
 
-params:
-  title: "Borneo IoT"
-  description: "An open source full-stack LED and other smart IoT kits for aquarium."
-  images:
-    - "images/borneo-hero.png"
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 1
+    disabled: false
+    permalinks:
+      page:
+        posts: /blog/:year:month/:slug
+        services: /services/:slug
+        products: /webshop/:slug
+      section:
+        posts: /blog/
+        services: /services/
+        products: /webshop/
 
-  logo: "logo.png"
+  # zh:
+  #   languageName: 简体中文
+  #   contentDir: content/zh
+  #   weight: 2
+  #   disabled: false
+  #   permalinks:
+  #     page:
+  #       posts: /blog/:slug
+  #       services: /diensten/:slug
+  #       products: /winkel/:slug
+  #     section:
+  #       posts: /blog/
+  #       services: /diensten/
+  #       products: /winkel/
 
-  cover:
-    hidden: false # hide everywhere but not in structured data
-
-  favicons:
-    themeColor: "#FFFFFF"
-    backgroundColor: "#FFFFFF"
-    faviconColor: "#000000"
-
-  social:
-    #dribbble: "#"
-    #instagram: "#"
-    github: "https://github.com/oldrev/borneo"
-    twitter: "https://x.com/oldrev"
-
-  location:
-    - "TBD"
-
-  contact:
-    - "E-mail: oldrev@gmail.com"
-
-  copyright: "Copyright © Li Wei. All Rights Reserved"
-
-menus:
-  main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
-
-#    - name: "How we work"
-#      url: "/#"
-#      weight: 2
-
-#    - name: "Our team"
-#      url: "/#"
-#      weight: 3
-
-#    - name: "Pricing"
-#      url: "/#"
-#      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
-
-    - name: "Documentation"
-      url: "https://docs.borneoiot.com"
-      weight: 9
-
-    - name: "About"
-      url: "/homepage/about"
-      weight: 10
-
-  buttons:
-    - name: "GitHub Repo"
-      url: "https://github.com/oldrev/borneo"
-      weight: 5
-      pre: "btn btn-primary text-light"
-
-  footer:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
-
-#    - name: "How we work"
-#      url: "/#"
-#      weight: 2
-
-#    - name: "Our team"
-#      url: "/#"
-#      weight: 3
-
-#    - name: "Pricing"
-#      url: "/#"
-#      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
-
-    - name: "Documentation"
-      url: "https://docs.borneoiot.com"
-      weight: 9
-
-    - name: "About"
-      url: "/homepage/about"
-      weight: 10
 
 taxonomies:
   series: "series"

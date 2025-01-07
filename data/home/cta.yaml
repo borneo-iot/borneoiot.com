@@ -1,9 +1,0 @@
-enabled: false
-id: "cta"
-
-content:
-  title: "Interested? Please follow the documentation below to learn how to DIY your own WiFi aquarium LED like a pro."
-  image: "images/homepage/getting-started.png"
-  button:
-    label: "Let's talk"
-    url: "#"
