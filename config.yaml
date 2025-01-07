@@ -3,6 +3,10 @@ theme: hugobricks
 defaultContentLanguage: en
 assetDir: static
 
+params:
+  googleAnalytics: "G-HPQMWJZL8M"
+
+
 markup:
   goldmark:
     renderer:
