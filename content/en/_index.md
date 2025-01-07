@@ -30,7 +30,7 @@ The Borneo-IoT Project is an open-source, modular and affordable hardware and so
 
 ## Everything is Open-Source
 
-![](/uploads/photos/home/components.png)
+![](/uploads/photos/home/open-source.png)
 
 From the circuit design to the firmware, and even the mobile app, everything is open-source and designed and developed using open-source tools.
 
