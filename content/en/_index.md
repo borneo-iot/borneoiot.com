@@ -10,11 +10,11 @@ The Borneo-IoT Project is an open-source, modular and affordable hardware and so
 
 {{< /brick_title2 >}}
 
-{{< brick_image >}}
+{{< brick_video >}}
 
 ## What’s included in Borneo-IoT?
 
-![](/uploads/photos/home/cover.jpg)
+{{< video "/uploads/video/Borneo-App-Demo-720p.mp4" >}}
 
 - Mobile app serving as a universal wireless device user terminal
 - Wireless 5-channel LED PWM embedded controller module (core board)
@@ -24,13 +24,14 @@ The Borneo-IoT Project is an open-source, modular and affordable hardware and so
 
 {{< button "See the docs" "https://docs.borneoiot.com/introduction.html" >}}
 
-{{< /brick_image >}}
+
+{{< /brick_video >}}
 
 {{< brick_image2 >}}
 
 ## Everything is Open-Source
 
-![](/uploads/photos/home/open-source.png)
+![](/uploads/photos/home/cover.jpg)
 
 From the circuit design to the firmware, and even the mobile app, everything is open-source and designed and developed using open-source tools.
 
