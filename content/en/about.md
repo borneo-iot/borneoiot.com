@@ -15,7 +15,7 @@ weight: 2
 
 {{< brick_wide >}}
 
-The idea for the Borneo IoT project came to life in 2021.
+The idea for the Borneo IoT project came to life in 2021 because I couldn’t afford a proper aquarium light, so I created my own.
 
 As a software engineer who's into freshwater aquariums and knows a bit about electronics, this project is my trial-and-error journey and what I've learned from it.
 
