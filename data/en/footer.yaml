@@ -21,4 +21,7 @@ socials:
   - title: Youtube (Chinese only)
     link: https://www.youtube.com/@mingshuzhaji
     logo_image: /img/youtube_button.svg
+  - title: E-mail
+    link: liwei@binarystarstech.com
+    logo_image: /img/email.svg
 footer_text: Copyright © 2024-2025 Li Wei. All rights reserved.
