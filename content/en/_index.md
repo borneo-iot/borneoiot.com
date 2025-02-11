@@ -62,7 +62,7 @@ Being open-source and DIY-friendly does not mean it is crude, it is also designe
 
 ## Affordable yet Powerful Hardware
 
-![](/uploads/photos/home/blc05.jpg)
+![](/uploads/photos/home/blc06mk1.jpg)
 
 The hardware of the Borneo-IoT project is built around the popular, cost-effective Espressif ESP32 WiFi MCU, without employing any specialized components or expensive fab techniques for the PCB. And yes, this is not a breadboard project, because my goal is to outperform commercial-grade products.
 

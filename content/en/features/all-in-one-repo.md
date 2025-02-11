@@ -15,8 +15,7 @@ All source code and design files are available on [GitHub](https://github.com/ol
     - `lyfi`: LED controller firmware-related source code
     - `doser`: Dosing pump firmware-related source code (under development)
 - `hw/`: Circuit design source files
-    - `blc05mk3`: 5-channel LED controller core board design
-    - `blc05mk3-horizontal`: 5-channel LED controller core board with horizontal pin headers
+    - `blc06`: 6-channel LED controller core board design
     - `blb08103`: 5-channel 63W LED lamp aluminum PCB design
     - `3d-models`: Exported STEP format 3D models of the core boards
     - `datasheets`: The hardware specifications in PDF format
