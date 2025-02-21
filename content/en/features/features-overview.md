@@ -7,7 +7,7 @@ weight: 2
 ## Full stack open-source
 
 - Schematic and PCB Layout design for the WiFi LED controller module (core board) using Horizon EDA
-- Schematic and PCB Layout design for a 5-channel 63W lamp reference design
+- Schematic and PCB Layout design for a 6-channel 57W lamp reference design
 - Firmware based on the ESP-IDF framework
 - The mobile app developed using Flutter
 
@@ -24,7 +24,7 @@ weight: 2
 
 ## Feature-rich
 
-- A standalone 5-channel PWM LED controller operable via a mobile app, requiring almost zero peripheral components
+- A standalone 6-channel PWM LED controller operable via a mobile app, requiring almost zero peripheral components
 - Autonomous multi-stage sunrise/sunset graphical dimming and soft start for the module, with an easy setup mode
 - Automatic time synchronization based on the SNTP protocol
 - PID-based automatic cooling fan control and other protection features
@@ -33,7 +33,7 @@ weight: 2
 
 ## Budget-friendly
 
-- The MCU uses the popular low-cost ESP32-C3 (5-channel edition) or ESP32 (10-channel edition), with no any custom or uncommon components
+- The MCU uses the popular low-cost ESP32-C3 (6-channel edition) or ESP32 (10-channel edition), with no any custom or uncommon components
 - Built-in voltage regulation circuit can directly drive the cheapest two-wire cooling fans, and also supports PWM speed-controlled fans
 - The module uses pin headers by default, making it convenient for DIY enthusiasts
 

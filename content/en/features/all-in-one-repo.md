@@ -16,7 +16,7 @@ All source code and design files are available on [GitHub](https://github.com/ol
     - `doser`: Dosing pump firmware-related source code (under development)
 - `hw/`: Circuit design source files
     - `blc06`: 6-channel LED controller core board design
-    - `blb08103`: 5-channel 63W LED lamp aluminum PCB design
+    - `blb0657f`: 6-channel 57W LED lamp aluminum PCB design
     - `3d-models`: Exported STEP format 3D models of the core boards
     - `datasheets`: The hardware specifications in PDF format
 `tools/`: Related scripts and tools
