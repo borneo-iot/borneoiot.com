@@ -55,7 +55,7 @@ Being open-source and DIY-friendly does not mean it is crude, it is also designe
     - Manual control mode
 - Dark theme
 
-{{< button "Learn more" "https://docs.borneoiot.com/mobile-app" >}}
+{{< button "Learn more" "products/app" >}}
 
 {{< /brick_image >}}
 

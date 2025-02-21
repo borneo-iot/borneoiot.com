@@ -9,7 +9,7 @@ Buce (Model BLC06MK1) is an innovative 6-channel all-in-one WiFi LED PWM control
 This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our open-source mobile app. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
 
-What will people use it for?
+## Applications
 
 * **Aquarium Lighting**
     Aquarium hobbyists can use Buce to simulate natural lighting environments, promoting the health and growth of aquatic plants or corals.
@@ -56,10 +56,11 @@ What will people use it for?
 
 ---
 
-## Documents
+## Resources
 
 * [Datasheet](https://github.com/oldrev/borneo/tree/master/hw/datasheets)
 * Online Documentation: [docs.borneoiot.com](https://docs.borneoiot.com/hardwares/buce)
+* GitHub Repo: [github.com/oldrev/borneo](https://github.com/oldrev/borneo)
 
 
 ## Gallery
