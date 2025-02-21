@@ -36,12 +36,12 @@ This versatile controller provides six independent PWM channels, allowing users 
 * Built-in voltage regulator, allowing direct input of 5~36V voltage.
 * Built-in power voltage measurement circuit, with the option to connect an INA139 for current and power measurement.
 * Capable of outputting 3.3V voltage to power external devices.
-* Supports external buttons for functions like WiFi provisioning (network setup).
+* Supports an external interactive button, which can be used for temporary appreciation mode or to reset network connection information.
 * Built-in Thermal Management:
     * Integrated NTC temperature sensing circuit that can directly connect to a 3950 10kΩ NTC.
-    * Integrated fan driver circuit, capable of directly connecting to 12V two-wire fans and PWM-controlled fans. 
+    * Integrated fan driver circuit, capable of directly connecting to 12V two-wire fans and PWM-controlled fans.
       Two-wire fans can set speed through voltage adjustment.
-    * Fan cooling control via PID algorithm (default set to maintain 45°C, configurable via software). 
+    * Fan cooling control via PID algorithm (default set to maintain 45°C, configurable via software).
     * Automatic emergency shutdown occurs if the NTC temperature exceeds 65°C.
 
 ---
@@ -49,8 +49,8 @@ This versatile controller provides six independent PWM channels, allowing users 
 ## Other Features
 
 * Automatic SNTP time synchronization.
-* 0.1” (2.54mm) header interface, convenient for DIY projects.
-* Communicate using CBOR over CoAP/UDP, and provide Python communication examples.
+* 0.1" (2.54mm) pin-header interface, convenient for DIY projects.
+* Communicate using CBOR over CoAP/UDP, and provide Python examples.
 
 {{< /tabs >}}
 
