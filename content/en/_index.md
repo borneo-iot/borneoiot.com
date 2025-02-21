@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
+
 {{< brick_title2 >}}
-# An Open-source Aquarium LED Kit
+# Open-Source Aquarium LED Kit for Makers
 
 The Borneo-IoT Project is an open-source, modular and affordable hardware and software for creating aquarium LED and other aquatic smart devices.
 
@@ -60,16 +61,12 @@ Being open-source and DIY-friendly does not mean it is crude, it is also designe
 
 {{< brick_image2 >}}
 
-## Affordable yet Powerful Hardware
+## Buce: 6-Channel All-in-One WiFi LED PWM Controller
+
+Buce (Model BLC06MK1) is an innovative 6-channel all-in-one WiFi LED PWM controller module designed for makers who love DIY lighting projects, particularly in aquariums and photography. Buce controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our open-source mobile app.
 
 ![](/uploads/photos/home/blc06mk1.jpg)
 
-The hardware of the Borneo-IoT project is built around the popular, cost-effective Espressif ESP32 series WiFi MCU, without employing any specialized components or expensive fab techniques for the PCB. And yes, this is not a breadboard project, because my goal is to outperform commercial-grade products.
-
-- The schematic and PCB layout were designed using [Horizon EDA](http://horizon-eda.org).
-- The mechanical structure were created using FreeCAD.
-- No 3D-printed components were involved.
-
-{{< button "See the datasheets" "https://github.com/oldrev/borneo/tree/master/hw/datasheets" >}}
+{{< button "Learn More" "products/buce" >}}
 
 {{< /brick_image2 >}}

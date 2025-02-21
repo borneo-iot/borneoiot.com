@@ -31,12 +31,10 @@ languages:
     permalinks:
       page:
         posts: /blog/:year:month/:slug
-        services: /services/:slug
-        products: /webshop/:slug
       section:
         posts: /blog/
         services: /services/
-        products: /webshop/
+        products: /products/
 
   # zh:
   #   languageName: 简体中文

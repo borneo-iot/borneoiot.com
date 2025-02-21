@@ -3,8 +3,10 @@ logo_subtitle: Open-source Aquarium LED DIY Kit & More
 dark_header: true
 mobile_view_width: 1100
 menuitems:
-  - title: Features
-    link: /features
+  - title: Hardwares
+    items:
+    - title: Buce (6-Channel PWM LED Controller)
+      link: /products/buce
   - title: About
     link: /about
   - title: Download
@@ -15,6 +17,7 @@ menuitems:
     link: https://docs.borneoiot.com
   - title: Donate
     link: /donate
+
 cta:
   active: true
   title: GitHub
