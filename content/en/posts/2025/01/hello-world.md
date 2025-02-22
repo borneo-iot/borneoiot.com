@@ -14,5 +14,5 @@ The idea for the Borneo IoT project came to life in 2021.
 
 As a software engineer who’s into freshwater aquariums and knows a bit about electronics, this project is my trial-and-error journey and what I’ve learned from it.
 
-If you are interested in this open source, please stay tuned.
+If you are interested in my open hardwares, please stay tuned.
 

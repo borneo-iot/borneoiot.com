@@ -1,5 +1,5 @@
 logo_image:
-logo_subtitle: Taking Aquarium Hardware DIY to a Whole New Level!
+logo_subtitle: Taking Aquarium DIY to a Whole New Level
 dark_header: true
 mobile_view_width: 1100
 menuitems:
@@ -9,19 +9,28 @@ menuitems:
       link: /products/buce
   - title: App
     link: /products/app
-  - title: About
-    link: /about
-  - title: Download
-    link: https://github.com/oldrev/borneo/releases
   - title: Blog
     link: /blog
-  - title: Docs
-    link: https://docs.borneoiot.com
-  - title: Donate
-    link: /donate
+  - title: Resources
+    items:
+    - title: Online Documentation
+      link: https://docs.borneoiot.com
+    - title: Download
+      link: https://github.com/oldrev/borneo/releases
+  - title: Community
+    items:
+    - title: Forum
+      link: https://github.com/oldrev/borneo/discussions
+    - title: Discord
+      link: https://discord.gg/GgH45vjX
+    - title: GitHub
+      link: https://github.com/oldrev/borneo
+  - title: About
+    link: /about
 
 cta:
   active: true
-  title: GitHub
-  link: https://github.com/oldrev/borneo
+  title: ❤ Donate
+  link: /donate
+
 preheader: Borneo-IoT Project
