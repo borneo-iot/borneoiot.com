@@ -53,6 +53,9 @@ This versatile controller provides six independent PWM channels, allowing users 
 
 {{< /tabs >}}
 
+
+![](/uploads/products/blc06mk1/gds.png)
+
 ---
 
 ## Resources
@@ -64,4 +67,4 @@ This versatile controller provides six independent PWM channels, allowing users 
 
 ## Gallery
 
-{{< gallery dir="/uploads/products/blc06mk1/" >}} 
+{{< gallery dir="/uploads/products/blc06mk1/gallery" >}} 
