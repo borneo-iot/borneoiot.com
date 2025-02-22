@@ -57,15 +57,6 @@ This versatile controller provides six independent PWM channels, allowing users 
 
 ![](/uploads/products/blc06mk1/gds.png)
 
-## Typical Applications
-
-* Smart high-power aquarium LED
-* Agricultural LED applications
-* Beauty devices
-* Home lighting or ambient LEDs
-* Photography lighting
-
-
 ---
 
 ## Resources
