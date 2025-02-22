@@ -53,6 +53,7 @@ This versatile controller provides six independent PWM channels, allowing users 
 
 {{< /tabs >}}
 
+## Pinout
 
 ![](/uploads/products/blc06mk1/gds.png)
 
