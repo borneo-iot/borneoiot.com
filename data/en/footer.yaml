@@ -2,10 +2,8 @@ logo_image:
 menuitems:
   - title: About
     link:  /about/
-  - title: Hardwares
-    items:
-    - title: Buce (6-Channel PWM LED Controller)
-      link: /products/buce
+  - title: App
+    link: /products/app
   - title: Blog
     link:  /blog/
   - title: Privacy policy

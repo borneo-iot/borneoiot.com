@@ -31,8 +31,6 @@ languages:
     permalinks:
       page:
         posts: /blog/:year:month/:slug
-        services: /services/:slug
-        products: /products/:slug
       section:
         posts: /blog/
         services: /services/
