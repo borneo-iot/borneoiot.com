@@ -30,7 +30,7 @@ menuitems:
 
 cta:
   active: true
-  title: ❤ Donate
+  title: "❤ Donate"
   link: /donate
 
 preheader: Borneo-IoT Project

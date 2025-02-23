@@ -52,7 +52,7 @@ The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable
 
 Buce (Model BLC06MK1) is an innovative 6-channel all-in-one WiFi LED PWM controller module designed for makers who love DIY lighting projects, particularly in aquariums and photography. Buce controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our open-source mobile app.
 
-![](/uploads/photos/home/blc06mk1.jpg)
+![](/uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
 
 {{< button "Learn More" "products/buce" >}}
 
