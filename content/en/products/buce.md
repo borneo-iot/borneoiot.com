@@ -7,8 +7,6 @@ Buce (Model BLC06MK1) is an innovative, open-source 6-channel all-in-one WiFi LE
 
 This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our open-source mobile app. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
-aaa
-
 ## Applications
 
 * **Aquarium Lighting**
