@@ -1,6 +1,6 @@
 ---
 title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
-image: /uploads/products/blc06mk1/pins.jpg
+image: /uploads/products/blc06mk1/gallery/pins.jpg
 ---
 
 Buce (Model BLC06MK1) is an innovative, open-source 6-channel all-in-one WiFi LED PWM controller designed for makers and engineers who love DIY lighting projects, particularly in aquariums and photography.
