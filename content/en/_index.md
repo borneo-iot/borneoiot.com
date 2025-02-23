@@ -3,9 +3,9 @@ title: Home
 ---
 
 {{< brick_title2 >}}
-# Open-Source Aquarium LED Kit for Makers
+# Open-Source Aquarium DIY Kit for Makers
 
-The Borneo-IoT Project is an open-source, modular and affordable hardware and software for creating aquarium LED and other aquatic smart devices.
+The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable hardware and software solutions for hobbyists and professionals to create aquarium LEDs and other smart aquatic devices.
 
 ![](/uploads/photos/home/hero.jpg)
 
@@ -28,21 +28,8 @@ The Borneo-IoT Project is an open-source, modular and affordable hardware and so
 
 {{< /brick_video >}}
 
+
 {{< brick_image2 >}}
-
-## Everything is Open-Source
-
-![](/uploads/photos/home/cover.jpg)
-
-The Borneo-IoT Project is an open-source hardware initiative, running with open-source firmware and provides an open-source mobile client app. All source code and design files are available on GitHub.
-
-Being open-source and DIY-friendly does not mean it is crude, it is also designed with the potential of mass production in mind.
-
-{{< button "GitHub Repo" "https://github.com/oldrev/borneo" >}}
-
-{{< /brick_image2 >}}
-
-{{< brick_image >}}
 
 ## An Easy-to-use App
 
@@ -57,9 +44,9 @@ Being open-source and DIY-friendly does not mean it is crude, it is also designe
 
 {{< button "Learn more" "products/app" >}}
 
-{{< /brick_image >}}
+{{< /brick_image2 >}}
 
-{{< brick_image2 >}}
+{{< brick_image >}}
 
 ## Buce: 6-Channel All-in-One WiFi LED PWM Controller
 
@@ -69,4 +56,17 @@ Buce (Model BLC06MK1) is an innovative 6-channel all-in-one WiFi LED PWM control
 
 {{< button "Learn More" "products/buce" >}}
 
-{{< /brick_image2 >}}
+{{< /brick_image >}}
+
+
+{{< brick_quote >}}
+
+## Be Free
+
+The Borneo-IoT Project is an open hardware initiative, running with open-source firmware and provides an open-source mobile client app. All source code and design files are available on GitHub.
+
+{{< button "GitHub Repo" "https://github.com/oldrev/borneo" >}}
+
+![](/uploads/photos/home/hero.jpg)
+
+{{< /brick_quote >}}
