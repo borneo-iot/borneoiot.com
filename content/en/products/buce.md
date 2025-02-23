@@ -9,9 +9,9 @@ This versatile controller provides six independent PWM channels, allowing users 
 
 ## Buce Is Not a Dev Board
 
-Buce is not a traditional development board! We have already completed the toughest "dev" work, building the firmware and mobile app, so you don't have to.
+Buce is not a traditional development board! We handle the hard "dev" stuff, like developing the firmware and mobile app, so you don’t have to. (Of course, if you’d like to contribute to this open-source project, we’d love to have you on board.)
 
-Just connect Buce to a constant-current LED driver and attach some LED chips, and you've got yourself a smart, WiFi-enabled, multi-channel, multi-segment dimming light fixture.
+Just connect Buce to a constant-current LED power driver and attach some LED chips, and you've got yourself a smart, WiFi-enabled, multi-channel, multi-segment dimming light fixture.
 
 ### Applications
 
