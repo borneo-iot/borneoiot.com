@@ -3,9 +3,9 @@ title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
 image: /uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg
 ---
 
-Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for makers and engineers passionate about DIY lighting projects, especially in aquariums and photography.
+Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for makers and engineers passionate about DIY LED projects, especially in aquariums and photography.
 
-This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our open-source mobile app. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
+This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our **open-source [mobile app](app)**. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
 ## Buce Is Not a Dev Board
 
@@ -21,7 +21,8 @@ Just connect Buce to a constant-current LED power driver and attach some LED chi
     Photographers can set up dynamic lighting scenes to capture stunning images with precise control over brightness and color, perfect for studio or outdoor shoots.
 * **Home Lighting**
     DIY enthusiasts can integrate Buce into their smart home systems to create personalized lighting ambiances for different rooms and occasions, with smooth transitions throughout the day.
-* **Let Your Creativity Shine**
+* **And More**
+    Let your creativity shine.
 
 {{< tabs >}}
 
