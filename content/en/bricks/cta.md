@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## awesome!
+## Interested? Let's get started!
 
 Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "See the docs" "https://docs.borneoiot.com/getting-started" >}}
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/photos/home/open-source.png)

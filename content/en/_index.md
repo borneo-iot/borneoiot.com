@@ -17,11 +17,11 @@ The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable
 
 {{< video "/uploads/video/Borneo-App-Demo-720p.mp4" >}}
 
-- Mobile app serving as a universal wireless device user terminal
-- Wireless 6-channel LED PWM embedded controller module (core board)
-- Firmware developed using ESP-IDF
-- 6-channel LED aluminum PCB reference design for the controller module
-- And much more
+- **[Open-source mobile app](products/app):** Manage and communicate with our devices.
+- **[Buce](products/buce):** The brain of your own high-end aquarium LED.
+- Open-source firmware developed using ESP-IDF.
+- 6-channel LED aluminum PCB reference design for the Buce module.
+- And much more.
 
 {{< button "See the docs" "https://docs.borneoiot.com/introduction.html" >}}
 
@@ -70,3 +70,5 @@ The Borneo-IoT Project is an open hardware initiative, running with open-source 
 ![](/uploads/photos/home/hero.jpg)
 
 {{< /brick_quote >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}

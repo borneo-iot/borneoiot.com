@@ -3,24 +3,41 @@ title: "Borneo-IoT Mobile App"
 image: /uploads/products/app/app.png
 ---
 
+
 The Borneo-IoT project includes an easy-to-use, open-source, cross-platform mobile app for controlling all hardware devices under the Borneo-IoT project.
+
+{{< tabs >}}
 
 ## Features
 
-* Cross-platform app developed in Flutter, supports: Android/iOS/Windows/Linux/MacOS
-* Scene management, allowing switching between different locations to control different devices
-* Devices grouping
-* ESPTouch protocol based WiFi provisioning
-* Automated device discovery using mDNS/Zeroconf
-* Smart LED control functions:
+* **General Functions**
+    - WiFi provisioning based on the ESPTouch protocol
+    - Automated device discovery using mDNS/Zeroconf
+    - Scene management, allowing switching between different locations to control different devices
+    - Devices grouping
+* **Smart Wireless LED Control Functions**
     - Multi-segment dimming for sunrise and sunset simulation
     - Manual control mode
     - Quick preview of multi-segment dimming
     - Easy setup
-* Dark theme
-* Multi-language support
+    - Temporary Lighting Mode
+* **GUI Features**:
+    - Dark theme
+    - Multi-language support
 * And more
 
+---
+
+## Technical Information
+
+* Modular architecture that can easily support different devices
+* Cross-platform, developed in Flutter, supports: Android, iOS, Windows, Linux, macOS
+
+{{< /tabs >}}
+
+## Gallery
+
+{{< gallery dir="/uploads/products/app/gallery/" >}}
 
 ---
 
@@ -30,6 +47,3 @@ The Borneo-IoT project includes an easy-to-use, open-source, cross-platform mobi
 * GitHub Repo: [github.com/oldrev/borneo](https://github.com/oldrev/borneo)
 
 
-## Gallery
-
-{{< gallery dir="/uploads/products/app/gallery/" >}}
