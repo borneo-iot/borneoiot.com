@@ -26,8 +26,6 @@ Hope you can find some fun in it too!
 {{< socialbuttons >}}
 
 
-{{< contactbuttons >}}
-
 ___
 
 ![](/uploads/photos/home/forbear.png)

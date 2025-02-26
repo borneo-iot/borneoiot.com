@@ -19,8 +19,8 @@ The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable
 
 - **[Open-source mobile app](products/app):** Manage and communicate with our devices.
 - **[Buce](products/buce):** The brain of your own high-end aquarium LED.
-- Open-source firmware developed using ESP-IDF.
-- 6-channel LED aluminum PCB reference design for the Buce module.
+- [Open-source firmware](https://github.com/oldrev/borneo/tree/master/hw) developed using ESP-IDF.
+- [6-channel LED aluminum PCB reference design](https://github.com/oldrev/borneo/tree/master/hw/blb0657f) for the Buce module.
 - And much more.
 
 {{< button "See the docs" "https://docs.borneoiot.com/introduction.html" >}}
