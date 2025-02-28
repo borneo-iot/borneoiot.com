@@ -7,6 +7,8 @@ menuitems:
     items:
     - title: Buce (6-Channel PWM LED Controller)
       link: /products/buce
+    - title: Bacopa (Driver/Carrier Board for Buce)
+      link: /products/bacopa
   - title: App
     link: /products/app
   - title: Blog
