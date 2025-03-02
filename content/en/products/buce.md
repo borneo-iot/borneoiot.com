@@ -5,13 +5,13 @@ image: /uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg
 
 Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for makers and engineers passionate about DIY LED projects, especially in aquariums and photography.
 
-This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our **open-source [mobile app](app)**. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
+This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our **[open-source mobile app](app)**. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
 ## Buce Is Not a Dev Board
 
-Buce is not a traditional development board! We handle the hard "dev" stuff, like developing the firmware and mobile app, so you don’t have to. (Of course, if you’d like to contribute to this open-source project, we’d love to have you on board.)
+Buce is not a traditional development board! We handle the hard 'dev' stuff, such as writing tens of thousands of lines of code for the firmware and mobile app, so you don’t have to. (Of course, if you’d like to contribute to this open-source project, we’d love to have you on board.)
 
-Just connect Buce to a constant-current LED power driver and attach some LED chips, and you've got yourself a smart, WiFi-enabled, multi-channel, multi-segment dimming light fixture.
+Just connect Buce to a [constant-current LED power driver](bacopa) and attach some high-power LED chips, and you've got yourself a smart, mobile app-controlled, multi-segment dimming light fixture.
 
 ### Applications
 
@@ -56,7 +56,7 @@ Just connect Buce to a constant-current LED power driver and attach some LED chi
 
 * Automatic SNTP time synchronization.
 * 0.1" (2.54mm) pin-header interface, convenient for DIY projects.
-* Communicate using CBOR over CoAP/UDP, and provide Python examples.
+* Communicate using CBOR over CoAP/UDP, and provide [Python client library and examples](https://docs.borneoiot.com/borneopy).
 
 {{< /tabs >}}
 
@@ -67,6 +67,10 @@ Just connect Buce to a constant-current LED power driver and attach some LED chi
 ## Block Diagram
 
 ![](/uploads/products/blc06mk1/block-diagram.svg)
+
+## Typical Peripheral Circuit Diagram
+
+![](/uploads/products/blc06mk1/peripherals.svg)
 
 ---
 
@@ -79,4 +83,4 @@ Just connect Buce to a constant-current LED power driver and attach some LED chi
 
 ## Gallery
 
-{{< gallery dir="/uploads/products/blc06mk1/gallery" >}} 
+{{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
