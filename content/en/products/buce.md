@@ -7,6 +7,12 @@ Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi 
 
 This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our **[open-source mobile app](app)**. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
+
+Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) open-hardware product.
+
+[![](/uploads/products/blc06mk1/oshwa.png)](https://certification.oshwa.org/cn000017.html)
+
+
 ## Buce Is Not a Dev Board
 
 Buce is not a traditional development board! We handle the hard 'dev' stuff, such as writing tens of thousands of lines of code for the firmware and mobile app, so you don’t have to. (Of course, if you’d like to contribute to this open-source project, we’d love to have you on board.)
