@@ -62,7 +62,8 @@ Just connect Buce to a [constant-current LED power driver](bacopa) and attach so
 
 * Automatic SNTP time synchronization.
 * 0.1" (2.54mm) pin-header interface, convenient for DIY projects.
-* Communicate using CBOR over CoAP/UDP, and provide [Python client library and examples](https://docs.borneoiot.com/borneopy).
+* Communicating using CBOR over CoAP/UDP offers both reliability and high performance
+* Provides [Open-source Python API and examples](https://docs.borneoiot.com/borneopy).
 
 {{< /tabs >}}
 

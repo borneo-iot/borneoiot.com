@@ -9,6 +9,8 @@ menuitems:
       link: /products/buce
     - title: Bacopa (Driver/Carrier Board for Buce)
       link: /products/bacopa
+#    - title: Colorata (10-Channel PWM LED Controller)
+#      link: /products/colorata
   - title: App
     link: /products/app
   - title: Blog
