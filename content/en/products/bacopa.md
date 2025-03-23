@@ -14,4 +14,4 @@ Coming soon.
 
 ## Gallery
 
-{{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
+{{< gallery dir="/uploads/products/blm06mk1/gallery" >}}
