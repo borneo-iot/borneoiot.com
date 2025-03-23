@@ -6,10 +6,12 @@ title: "Bacopa: 6-Channel Carrier/Driver Board for Buce"
 
 Coming soon.
 
+## Pinout
+
 ![](/uploads/products/blm06mk1/pinout.png)
 
 
 
+## Gallery
 
-
-
+{{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
