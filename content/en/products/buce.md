@@ -83,7 +83,7 @@ Just connect Buce to a [constant-current LED power driver](bacopa) and attach so
 
 ## Resources
 
-* [Datasheet](https://github.com/oldrev/borneo/tree/master/hw/datasheets)
+* [Datasheet](https://github.com/borneo-iot/borneo/tree/master/hw/datasheets)
 * Online Documentation: [docs.borneoiot.com](https://docs.borneoiot.com/hardwares/buce)
 * GitHub Repo: [github.com/oldrev/borneo](https://github.com/oldrev/borneo)
 

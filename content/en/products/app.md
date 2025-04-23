@@ -44,6 +44,6 @@ The Borneo-IoT project includes an easy-to-use, open-source, cross-platform mobi
 ## Resources
 
 * Online Documentation: [docs.borneoiot.com](https://docs.borneoiot.com/mobile-app)
-* GitHub Repo: [github.com/oldrev/borneo](https://github.com/oldrev/borneo)
+* GitHub Repo: [github.com/borneo-iot/borneo](https://github.com/borneo-iot/borneo)
 
 

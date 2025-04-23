@@ -20,15 +20,15 @@ menuitems:
     - title: Online Documentation
       link: https://docs.borneoiot.com
     - title: Download
-      link: https://github.com/oldrev/borneo/releases
+      link: https://github.com/borneo-iot/borneo/releases
   - title: Community
     items:
     - title: Forum
-      link: https://github.com/oldrev/borneo/discussions
+      link: https://github.com/borneo-iot/borneo/discussions
     - title: Discord
       link: https://discord.gg/EFJTm7PpEs
     - title: GitHub
-      link: https://github.com/oldrev/borneo
+      link: https://github.com/borneo-iot/borneo
   - title: About
     link: /about
 

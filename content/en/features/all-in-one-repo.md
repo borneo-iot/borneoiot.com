@@ -3,7 +3,7 @@ title: All-in-one GitHub Repository
 weight: 3
 ---
 
-All source code and design files are available on [GitHub](https://github.com/oldrev/borneo).
+All source code and design files are available on [GitHub](https://github.com/borneo-iot/borneo).
 
 ## The directory structure of the Git repository
 

@@ -10,7 +10,7 @@ menuitems:
     link:  /privacy-policy/
 socials:
   - title: GitHub
-    link: https://github.com/oldrev/borneo
+    link: https://github.com/borneo-iot/borneo
     logo_image: /img/github-mark.svg
   - title: Twitter/X.com
     link: https://x.com/oldrev
