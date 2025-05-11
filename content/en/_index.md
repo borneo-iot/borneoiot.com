@@ -3,44 +3,44 @@ title: Home
 ---
 
 {{< brick_title2 >}}
-# Open-Source Aquarium DIY Kit for Engineers
-
-The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable hardware and software solutions for hobbyists and professionals to create aquarium LEDs and other smart aquatic devices.
+# The World's Most Advanced Open Source Aquarium Hardware & Software
 
 ![](/uploads/photos/home/hero.jpg)
 
+{{< button "Learn more" "about" >}}
+
 {{< /brick_title2 >}}
 
-{{< brick_video >}}
+{{< brick_image >}}
 
-## What’s included in Borneo-IoT?
+## Meet Ulva-6
 
-{{< video "/uploads/video/Borneo-App-Demo-720p.mp4" >}}
+![](uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
-- **[Open-source mobile app](products/app):** Manage and communicate with our devices.
-- **[Buce](products/buce):** The brain of your own high-end aquarium LED.
-- [Open-source firmware](https://github.com/borneo-iot/borneo/tree/master/hw) developed using ESP-IDF.
-- [6-channel LED aluminum PCB reference design](https://github.com/borneo-iot/borneo/tree/master/hw/blb0657f) for the Buce module.
-- And much more.
+**Ulva-6** is the world's first high-end commercial-grade, fully open-source WiFi smart LED DIY kit for reef aquariums.
 
-{{< button "See the docs" "https://docs.borneoiot.com/introduction.html" >}}
+* **60W** rated LED power with 6-Channel: Blue, Royal Blue, Cold White, Red, Green, Violet + Ultraviolet.
+* **Designed with safety and stability as priorities**: ensuring stable operation for many years.
+* **Fully metallic construction** with no 3D-printed parts, assembly can be completed without electronic skills.
+
+{{< button "Learn more" "products/ulva6" >}}
 
 
-{{< /brick_video >}}
+{{< /brick_image >}}
 
 
 {{< brick_image2 >}}
 
 ## An Easy-to-use App
 
-![](/uploads/photos/home/app.png)
+![](uploads/photos/home/app.png)
 
-- Scene management & devices grouping
-- Built-in ESPTouch WiFi provisioning and device discovery
-- Smart LED control functions:
-    - Multi-segment dimming for sunrise and sunset simulation with an easy setup mode
-    - Manual control mode
-- Dark theme
+* Scene management & devices grouping
+* Built-in ESPTouch WiFi provisioning and device discovery
+* Smart LED control functions:
+  * Multi-segment dimming for sunrise and sunset simulation with an easy setup mode
+  * Manual control mode
+* Dark theme
 
 {{< button "Learn more" "products/app" >}}
 
@@ -52,7 +52,7 @@ The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable
 
 Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for engineers passionate about DIY LED projects, especially in aquariums and photography.
 
-![](/uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
+![](uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
 
 {{< button "Learn More" "products/buce" >}}
 
@@ -67,7 +67,7 @@ The Borneo-IoT Project is an open hardware initiative, running with open-source 
 
 {{< button "GitHub Repo" "https://github.com/borneo-iot/borneo" >}}
 
-![](/uploads/photos/home/hero.jpg)
+![](uploads/photos/home/hero.jpg)
 
 {{< /brick_quote >}}
 

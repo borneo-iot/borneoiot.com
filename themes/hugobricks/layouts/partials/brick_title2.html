@@ -17,14 +17,14 @@
 <section class="title bgimage transparent_header hasbackgroundcolor">
     <div class="bgimage" style="background: url('{{ ((resources.GetMatch $imagesrc).Fill `3000x1000 webp Center q50`).RelPermalink }}') center center / cover no-repeat;">
         {{ if $empty }}{{ else }}<div class="overlay"></div>{{ end }}
-        <div class="container small">
+        <div class="container large">
             {{ $inner | safeHTML }}
         </div>
     </div>
 </section>
 {{- else -}}
 <section class="title">
-    <div class="container small">
+    <div class="container large">
         {{- markdownify $inner -}}
     </div>
 </section>

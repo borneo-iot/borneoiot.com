@@ -3,15 +3,35 @@ title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
 image: /uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg
 ---
 
-Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for makers and engineers passionate about DIY LED projects, especially in aquariums and photography.
+{{< brick_title >}}
+# Buce: 6-Channel All-in-One WiFi LED PWM Controller
+
+![](/uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
+
+{{< /brick_title >}}
+
+
+{{< brick_image >}}
+
+![](/uploads/products/blc06mk1/gallery/blc06mk1-1.jpg)
+
+## Introduction
+
+Buce (Model BLC06) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for makers and engineers passionate about DIY LED projects, especially in aquariums.
 
 This versatile controller provides six independent PWM channels, allowing users to customize and control lighting effects wirelessly through our **[open-source mobile app](app)**. With multi-segment dimming capabilities, Buce can simulate natural daylight transitions, such as sunrise and sunset, enhancing the visual experience in various settings.
 
 
+{{< /brick_image >}}
+
+
+{{< brick_wide >}}
+
+## Fully Open Source Hardware
+
 Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) open-hardware product.
 
 [![](/uploads/products/blc06mk1/oshwa.png)](https://certification.oshwa.org/cn000017.html)
-
 
 ## Buce Is Not a Dev Board
 
@@ -96,3 +116,5 @@ Just connect Buce to a [constant-current LED power driver](bacopa) and attach so
 ## Gallery
 
 {{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
+
+{{< /brick_wide >}}

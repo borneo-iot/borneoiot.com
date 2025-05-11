@@ -222,8 +222,9 @@ section.bgimage .overlay {position: absolute; left: 0; top: 0; width: 100%; heig
 section.bgimage .bgimage {position: relative; display: flex; flex-direction: column; justify-content: center;}
 section.bgimage .container {position: relative; z-index: 2; color: white; padding-top: 5.5rem; padding-bottom: 6rem;} 
 section.bgimage .container h1,
-section.bgimage .container h2 {color: white;}
-section.bgimage h1 + p {padding-top: 0;}
+section.bgimage .container h2 {color: white; text-align: center;}
+section.bgimage h1 + p {padding-top: 0; text-align: center; }
+section.bgimage .container p a.button { display: table; margin: 1rem auto; }
 
 /*------------------------*/
 /* breadcrumbs
