@@ -46,8 +46,6 @@ Ulva-6 is an open-source product that makes no compromises on functionality or p
 
 {{< /brick_image2 >}}
 
-
-
 {{< brick_image >}}
 
 ## Full Spectrum? That's Easy
