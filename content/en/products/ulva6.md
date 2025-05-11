@@ -56,7 +56,7 @@ Ulva-6 is an open-source product that makes no compromises on functionality or p
 
 The high-power dual-chip packaged LED beads used in Ulva-6, delivering up to 60W, contain the full spectrum required for coral growth and viewing.
 
-Ulva-6 features 6 independent dimming channels, Ulva-6 can create unlimited color combinations based on your preferences.
+With 6 independent dimming channels, Ulva-6 can create unlimited color combinations based on your preferences.
 
 * Cool White × 3
 * Royal Blue × 3
