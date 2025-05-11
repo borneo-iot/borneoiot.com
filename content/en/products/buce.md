@@ -34,11 +34,16 @@ Just connect Buce to a [constant-current LED power driver](bacopa) and attach so
 
 ## Dimming
 
-- The firmware and mobile app support advanced programmable segmented dimming functions, including features like sunrise and sunset simulation. Supports linear, logarithmic, and CIE-1931 dimming algorithms.
+- The firmware and mobile app support advanced programmable multi-stage dimming.
+- Supports linear, logarithmic, gamma, exponential and CIE-1931 dimming algorithms.
 - Supports scheduling mode, manual mode, and temporary appreciation mode.
-- Six independent PWM dimming channels, with software-configurable dimming frequency (default 24kHz), 10-bit 1024-level duty cycle range.
+- 6 independent PWM dimming channels.
+- High dimming frequency (default 19kHz), ensuring no flickering is visible to the naked eye or detected by recording devices,
+  while completely eliminating noise from the circuit.
 - Supports phase shifting for PWM signal, significantly reducing the peak current of the LED driver when not running at full power.
-
+- 4096 dimming levels.
+- Fully automated solar illumination intensity simulation based on astronomical algorithms.
+- Soft start and soft shutdown features to avoid startling aquatic life.
 
 ---
 
