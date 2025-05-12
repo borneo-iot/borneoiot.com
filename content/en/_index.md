@@ -3,7 +3,7 @@ title: Home
 ---
 
 {{< brick_title2 >}}
-# The World's Most Advanced Open Source Aquarium Hardware & Software
+# The World's Most Advanced Open Source Aquarium Devices
 
 ![](/uploads/photos/home/hero.jpg)
 
