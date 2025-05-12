@@ -17,7 +17,7 @@ title: Home
 
 ![](uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
-**Ulva-6** is the world's first high-end commercial-grade, fully open-source WiFi smart LED DIY kit for reef aquariums.
+**Ulva-6** is the world's first high-end, fully open-source WiFi smart LED DIY kit for nano reef aquariums.
 
 * **60W** rated LED power with 6-Channel: Blue, Royal Blue, Cold White, Red, Green, Violet + Ultraviolet.
 * **Designed with safety and stability as priorities**: ensuring stable operation for many years.
