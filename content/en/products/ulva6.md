@@ -81,7 +81,7 @@ Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
 
 {{< brick_image >}}
 
-## Professional Design
+## Pro Design, Solid Build
 
 ![](/uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
