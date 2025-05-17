@@ -92,6 +92,17 @@ Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
 
 {{< /brick_image >}}
 
+{{< brick_image2 >}}
+
+## Open Architecture
+
+![](/uploads/products/borneopy/python-code.png)
+
+* Uses open IoT protocols like mDNS, CoAP over UDP for communication
+* All features accessible via [open-source Python client library](https://docs.borneoiot.com/borneopy)
+* Easy integration with Home Assistant or Node-RED
+
+{{< /brick_image2 >}}
 
 {{< brick_wide >}}
 
