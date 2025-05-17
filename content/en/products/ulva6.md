@@ -48,7 +48,7 @@ Ulva-6 is an open-source product that makes no compromises on functionality or p
 
 {{< brick_image >}}
 
-## Full Spectrum? That's Easy
+## From the Code to the Glow
 
 ![](/uploads/products/ulva6/gallery/ulva6-spectrogram.png)
 
@@ -81,7 +81,7 @@ Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
 
 {{< brick_image >}}
 
-## Professional Design
+## Pro Design, Solid Build
 
 ![](/uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
