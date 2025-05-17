@@ -213,6 +213,7 @@ p > .button {margin: 0.5rem 0;}
 ul.buttons {gap: 1rem; margin-left: 0; display: flex; padding: 0.5rem 0;}
 ul.buttons li {list-style: none;}
 ul.buttons.social .button {background: var(--textDark);}
+ul.buttons.social {justify-content: center;}
 
 /*------------------------*/
 /* bgimage

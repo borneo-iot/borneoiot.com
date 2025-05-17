@@ -4,6 +4,6 @@ title: cta
 ## Interested? Let's get started!
 
 
-{{< button2 "See the docs" "https://docs.borneoiot.com/getting-started" >}}
+{{< button2 "Learn More" "getting-started" >}}
 
 ![](/uploads/photos/home/open-source.png)
