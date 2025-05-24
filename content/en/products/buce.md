@@ -65,6 +65,10 @@ Just connect Buce to a [constant-current LED power driver](bacopa) and attach so
 - Fully automated solar illumination intensity simulation based on astronomical algorithms.
 - Soft start and soft shutdown features to avoid startling aquatic life.
 
+### Supported Brightness Correction Curves
+
+![](/uploads/products/lyfi/borneo-led-curves.svg)
+
 ---
 
 ## Highly Integrated

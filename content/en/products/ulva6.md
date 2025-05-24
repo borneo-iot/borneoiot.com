@@ -35,7 +35,7 @@ Ulva-6 is built on our [OSHWA-certified](https://certification.oshwa.org/cn00001
 
 ## Powerful LED
 
-Ulva-6 is an open-source product that makes no compromises on functionality or performance. Beyond features like high-precision constant-current drives, 4096-level 19kHz PWM dimming, and fully programmable lighting settings, Ulva-6 also offers capabilities typically found in high-end commercial LEDs:
+Ulva-6 is an open-source product that makes no compromises on functionality or performance. Beyond features like high-precision constant-current drives, 4096-levels 19kHz PWM dimming, and fully programmable lighting settings, Ulva-6 also offers capabilities typically found in high-end commercial LEDs:
 
 * Astronomically calculated fully automatic sunrise/sunset simulation
 * Coral acclimation mode
