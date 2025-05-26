@@ -4,13 +4,14 @@ dark_header: true
 mobile_view_width: 1100
 menuitems:
   - title: Hardwares
+    link: /products
     items:
+    - title: Ulva-6 (Open Source 6-Channel Reef LED)
+      link: /products/ulva6
     - title: Buce (6-Channel PWM LED Controller)
       link: /products/buce
     - title: Bacopa (Driver/Carrier Board for Buce)
       link: /products/bacopa
-    - title: Ulva-6 (Open Source 6-Channel Reef LED)
-      link: /products/ulva6
 #    - title: Colorata (10-Channel PWM LED Controller)
 #      link: /products/colorata
   - title: App
