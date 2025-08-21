@@ -13,11 +13,12 @@ Ulva-6 is the world's first commercial-grade, fully open-source WiFi smart LED D
 
 {{< /brick_title2 >}}
 
-{{< brick_image >}}
+{{< brick_video >}}
 
 ## Your own smart WiFi reef LED, now fully hackable
 
-![](/uploads/products/ulva6/gallery/ulva6-assembly.jpg)
+{{< video "/uploads/video/ulva6-720p.mp4" >}}
+
 
 Ulva-6 is built on our [OSHWA-certified](https://certification.oshwa.org/cn000017.html) open-source LED controller [Buce](../buce), designed specifically for nano reef aquariums.
 
@@ -26,8 +27,7 @@ Ulva-6 is built on our [OSHWA-certified](https://certification.oshwa.org/cn00001
 * **DIY & Education-Friendly** Simple assembly and code for beginners and IoT learning.
 * **Fully Open-Source:** 100% open hardware, MCU firmware, and Flutter App for easy customization.
 
-
-{{< /brick_image >}}
+{{< /brick_video >}}
 
 {{< brick_image2 >}}
 

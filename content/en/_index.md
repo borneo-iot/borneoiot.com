@@ -11,11 +11,11 @@ title: Home
 
 {{< /brick_title2 >}}
 
-{{< brick_image >}}
+{{< brick_video >}}
 
 ## Meet Ulva-6
 
-![](uploads/products/ulva6/gallery/ulva6-looking.jpg)
+{{< video "/uploads/video/ulva6-720p.mp4" >}}
 
 **Ulva-6** is the world's first high-end, fully open-source WiFi smart LED DIY kit for nano reef aquariums.
 
@@ -26,7 +26,7 @@ title: Home
 {{< button "Learn more" "products/ulva6" >}}
 
 
-{{< /brick_image >}}
+{{< /brick_video >}}
 
 
 {{< brick_image2 >}}
