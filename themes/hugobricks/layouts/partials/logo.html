@@ -1,4 +1,4 @@
-{{- $logo := (index .Site.Data .Language.Lang).header.logo_image -}}
+{{- $logo := (index .Site.Data .Language.Lang).footer.logo_image -}}
 {{- if .Params.site_logo_image -}}{{- $logo = .Params.site_logo_image -}}{{- end -}}
 
 {{- $favicon := .Site.Data.settings.favicon_image -}}
@@ -12,13 +12,7 @@
 
 <a href="{{ relLangURL `/` }}#top" class="logo">
     {{ if $logo }}
-        <div class="{{ if $subtitle }}has_subtitle{{ end}}">
-            <img src="{{ $logo }}" alt="{{ $title }} logo" />
-            <div>
-                <span>{{ $title }}</span>
-                {{ if $subtitle }}<span>{{ $subtitle }}</span>{{ end }}
-            </div>
-        </div>
+        <img src="{{ $logo }}" alt="{{ (index .Site.Data .Language.Lang).general.title }} logo" />
     {{ else }}
         <div class="{{ if $subtitle }}has_subtitle{{ end}}">
             <img src="{{ $favicon }}" alt="{{ $title }} logo" class="inline black_2_textDark" />
