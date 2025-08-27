@@ -1,4 +1,4 @@
-logo_image:
+logo_image: uploads/branding/website-logo.svg
 menuitems:
   - title: About
     link:  /about/
@@ -24,4 +24,4 @@ socials:
   - title: E-mail
     link: mailto:contact@binarystarstech.com
     logo_image: /img/email.svg
-footer_text: Copyright © 2024-2025 Li Wei. All rights reserved.
+footer_text: Copyright © 2024-2025 Wei Li. All rights reserved.
