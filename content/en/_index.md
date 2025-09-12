@@ -52,7 +52,7 @@ title: Home
 
 Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for engineers passionate about DIY LED projects, especially in aquariums and photography.
 
-![](uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
+![](uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 
 {{< button "Learn More" "products/buce" >}}
 

@@ -27,7 +27,7 @@ Fully open-source WiFi smart LED DIY kit for nano reef aquariums.
 
 ---
 
-![](/uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
+![](/uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 
 ### Buce
 
