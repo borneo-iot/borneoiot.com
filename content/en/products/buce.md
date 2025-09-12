@@ -1,12 +1,12 @@
 ---
 title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
-image: /uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg
+image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
 {{< brick_title >}}
 # Buce: 6-Channel All-in-One WiFi LED PWM Controller
 
-![](/uploads/products/blc06mk1/gallery/blc06mk1-cover.jpg)
+![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)
 
 {{< /brick_title >}}
 
