@@ -33,7 +33,7 @@ title: Home
 
 ## An Easy-to-use App
 
-![](uploads/photos/home/app.png)
+![](uploads/products/app/app.png)
 
 * Scene management & devices grouping
 * Built-in ESPTouch WiFi provisioning and device discovery
