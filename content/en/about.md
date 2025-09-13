@@ -10,19 +10,14 @@ weight: 2
 
 ![](/uploads/photos/home/hero.jpg)
 
+We offers cutting-edge, open-source, modular, and affordable hardware and software solutions for small manufacturers and hobbyists to create aquarium LEDs and other smart aquatic devices.
+
 {{< /brick_title2 >}}
 
 
 {{< brick_wide >}}
 
-
-## What is Borneo-IoT?
-
-We offers cutting-edge, open-source, modular, and affordable hardware and software solutions for hobbyists and professionals to create aquarium LEDs and other smart aquatic devices.
-
-## Where it comes from?
-
-The idea for the Borneo IoT project came to life in 2021 because I couldn’t afford a proper aquarium light, so I created my own.
+The idea for the Borneo IoT project came to life in 2021 because I couldn't afford a proper aquarium light, so I created my own.
 
 As a software engineer who's into freshwater aquariums and knows a bit about electronics, this project is my trial-and-error journey and what I've learned from it.
 
