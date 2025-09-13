@@ -63,7 +63,7 @@ Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi 
 
 ## Be Free
 
-The Borneo-IoT Project is an open hardware initiative, running with open-source firmware and provides an open-source mobile client app. All source code and design files are available on GitHub.
+The Borneo-IoT is an open hardware initiative, running with open-source firmware and provides an open-source mobile client app. All source code and design files are available on GitHub.
 
 {{< button "GitHub Repo" "https://github.com/borneo-iot/borneo" >}}
 

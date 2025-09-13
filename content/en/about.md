@@ -16,9 +16,9 @@ weight: 2
 {{< brick_wide >}}
 
 
-## What is Borneo-IoT Project?
+## What is Borneo-IoT?
 
-The Borneo-IoT Project offers cutting-edge, open-source, modular, and affordable hardware and software solutions for hobbyists and professionals to create aquarium LEDs and other smart aquatic devices.
+We offers cutting-edge, open-source, modular, and affordable hardware and software solutions for hobbyists and professionals to create aquarium LEDs and other smart aquatic devices.
 
 ## Where it comes from?
 
@@ -38,7 +38,7 @@ ___
 ![](/uploads/photos/home/forbear.png)
 
 
-[^1]: The open-source project does not provide mass production-related tools and software.
+[^1]: The open-source repo does not provide mass production-related tools and software.
 
 
 {{< /brick_wide >}}

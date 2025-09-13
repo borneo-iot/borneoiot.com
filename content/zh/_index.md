@@ -7,7 +7,7 @@ preheader_is_light: false
 {{< brick_title2 >}}
 # 开源水族 LED 灯具 DIY 套件
 
-Borneo-IoT Project is a commercial-grade, highly customizable open-source WiFi aquarium LED hardware and software.
+Borneo-IoT is a commercial-grade, highly customizable open-source WiFi aquarium LED hardware and software.
 
 {{< button "Get started for free" "/get-started/" >}}
 

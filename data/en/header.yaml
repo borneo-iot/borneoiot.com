@@ -36,8 +36,8 @@ menuitems:
     link: /about
 
 cta:
-  active: true
+  active: false
   title: "❤ Donate"
   link: /donate
 
-preheader: Borneo-IoT Project
+preheader: Borneo-IoT

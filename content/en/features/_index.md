@@ -7,7 +7,7 @@ weight: 1
 ![](/uploads/photos/home/open-source.png)
 
 
-The Borneo-IoT Project comes with multiple hardware, firmware, and applications.
+The Borneo-IoT comes with multiple hardware, firmware, and applications.
 
 For more details, please checkout the online docs:
 

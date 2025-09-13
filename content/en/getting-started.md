@@ -30,7 +30,7 @@ Things to prepare before joining this project.
 ![](/uploads/products/ulva6/gallery/ulva6-cover.jpg)
 ### Blog
 
-Tracking the latest Borneo-IoT Project news.
+Tracking the latest Borneo-IoT news.
 
 [](/blog)
 

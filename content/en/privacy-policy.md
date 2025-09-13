@@ -12,7 +12,7 @@ title: Privacy Policy
 
 
 
-At Borneo-IoT Project, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you visit our website or use our services.
+At BinaryStar Technologies, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you visit our website or use our services.
 
 ## Information We Collect
 
