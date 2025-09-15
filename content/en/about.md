@@ -10,18 +10,22 @@ weight: 2
 
 ![](/uploads/photos/home/hero.jpg)
 
-We offers cutting-edge, open-source, modular, and affordable hardware and software solutions for small manufacturers and hobbyists to create aquarium LEDs and other smart aquatic devices.
+We are building an open, modular, and affordable platform for smart aquarium equipment, designed to do for aquarium devices what Android does for smartphones: provide a common hardware and software platform so manufacturers can focus on product design while we handle the most time-consuming and costly parts, including electronics, firmware, and mobile apps.
 
 {{< /brick_title2 >}}
 
 
 {{< brick_wide >}}
 
-The idea for the Borneo IoT project came to life in 2021 because I couldn't afford a proper aquarium light, so I created my own.
+The idea for the Borneo IoT project started in 2021, when I could not afford a proper aquarium light and decided to build my own.
 
-As a software engineer who's into freshwater aquariums and knows a bit about electronics, this project is my trial-and-error journey and what I've learned from it.
+As a software engineer who loves aquariums and has experience with electronics, I began experimenting, learning through trial and error, and sharing what I discovered. This personal project gradually evolved into a platform that others could use as a foundation for their products.
 
-Hope you can find some fun in it too!
+Today, our mission is to provide small manufacturers and hobbyists with fully integrated hardware and software solutions that power aquarium lights and other smart aquatic devices. Our platform is designed to be easy to adopt, customizable, and cost effective, helping manufacturers bring smart products to market faster and with less risk.
+
+We welcome collaboration and contributions. Whether you are a manufacturer seeking a reliable foundation, a designer looking for flexible hardware options, or a hobbyist and developer eager to experiment, there are many ways to get involved.
+
+We hope you will find inspiration, tools, and maybe some fun here too. We invite partners and contributors to join us in building an open ecosystem that makes advanced smart aquarium technology accessible, customizable, and affordable for everyone.
 
 ---
 
