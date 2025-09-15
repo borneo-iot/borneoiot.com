@@ -10,7 +10,7 @@ weight: 2
 
 ![](/uploads/photos/home/hero.jpg)
 
-We are building an open, modular, and affordable platform for smart aquarium equipment, designed to do for aquarium devices what Android does for smartphones: provide a common hardware and software platform so manufacturers can focus on product design while we handle the most time-consuming and costly parts, including electronics, firmware, and mobile apps.
+We are building an open, modular, and affordable platform for smart aquarium devices, like Android for smartphones.
 
 {{< /brick_title2 >}}
 
