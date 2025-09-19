@@ -7,7 +7,7 @@ image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
 
 # Ulva-6 Reef LED DIY Kit
 
-Ulva-6 is the world's first commercial-grade, fully open-source WiFi smart LED DIY kit for reef aquariums. It uses the Buce LED controller as its brain, along with our user-friendly yet powerful mobile app.
+**Ulva-6 is the world's first commercial-grade, fully open-source WiFi smart LED DIY kit for reef aquariums. It uses the Buce LED controller as its brain, along with our user-friendly yet powerful mobile app.**
 
 ![](/uploads/products/ulva6/gallery/ulva6-looking.jpg)
 

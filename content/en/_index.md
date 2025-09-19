@@ -5,7 +5,7 @@ title: Home
 {{< brick_title2 >}}
 # The Open Platform Powering the Next Generation of Aquarium Devices
 
-We handle the complex electronics and software, so you can focus on building great products.
+**We handle the complex electronics and software, so you can focus on building great products.**
 
 ![](/uploads/photos/home/hero.jpg)
 
