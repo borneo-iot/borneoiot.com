@@ -6,12 +6,10 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 {{< brick_title >}}
 # Buce - 6-Channel All-in-One WiFi LED PWM Controller
 
-**Buce is launching a crowdfunding campaign on Crowd Supply!**
-
-**Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
+**Buce is launching a crowdfunding campaign on Crowd Supply! Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
 
 
-{{< button "Subscribe" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+{{< button_cs "Subscribe" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 
 
 ![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)
