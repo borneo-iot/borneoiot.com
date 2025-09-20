@@ -5,11 +5,9 @@ image: /uploads/products/app/app.png
 
 {{< brick_wide >}}
 
-# Borneo-IoT Mobile App
+![](/uploads/products/app/app.png)
 
 Borneo-IoT Mobile App is an easy-to-use, open-source, cross-platform mobile app for controlling all hardware devices under the Borneo-IoT brand.
-
-![](/uploads/products/app/gallery/app.jpg)
 
 {{< tabs >}}
 
