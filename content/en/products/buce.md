@@ -109,7 +109,7 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 ![](/uploads/products/blc06mk1/peripherals.svg)
 
----
+
 
 ## Resources
 
@@ -123,3 +123,5 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 {{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
 
 {{< /brick_wide >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}

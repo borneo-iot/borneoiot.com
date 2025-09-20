@@ -1,9 +1,10 @@
 ---
 title: cta
 ---
-## Interested? Let's get started!
+## It's here!
 
+Our modular LED controller Buce is officially **LIVE** on Crowd Supply! Grab early-bird perks & join the journey.
 
-{{< button2 "Learn More" "getting-started" >}}
+{{< button_cs "Subscribe" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 
-![](/uploads/photos/home/open-source.png)
+![](/uploads/branding/crowd-supply-icon.svg)

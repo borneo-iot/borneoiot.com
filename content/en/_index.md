@@ -9,7 +9,7 @@ title: Home
 
 ![](/uploads/photos/home/hero.jpg)
 
-{{< button "Learn more" "about" >}}
+{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 
 {{< /brick_title2 >}}
 
