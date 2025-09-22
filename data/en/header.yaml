@@ -26,12 +26,12 @@ menuitems:
       link: https://github.com/borneo-iot/borneo/releases
   - title: Community
     items:
-    - title: Forum
-      link: https://github.com/borneo-iot/borneo/discussions
-    - title: Discord
-      link: https://discord.gg/EFJTm7PpEs
     - title: GitHub
       link: https://github.com/borneo-iot/borneo
+    - title: Reddit
+      link: https://www.reddit.com/r/borneoiot
+    - title: Discord
+      link: https://discord.gg/EFJTm7PpEs
   - title: About
     link: /about
 

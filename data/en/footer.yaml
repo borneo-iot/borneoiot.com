@@ -18,7 +18,10 @@ socials:
   - title: Discord
     link: https://discord.gg/EFJTm7PpEs
     logo_image: /img/discord-mark-black.svg
-  - title: Youtube (Chinese only)
+  - title: Reddit
+    link: https://www.reddit.com/r/borneoiot/
+    logo_image: /img/reddit.svg
+  - title: Youtube
     link: https://www.youtube.com/@borneoiot
     logo_image: /img/youtube_button.svg
   - title: E-mail
