@@ -3,11 +3,20 @@ title: "Borneo-IoT Mobile App"
 image: /uploads/products/app/app.png
 ---
 
-{{< brick_wide >}}
+{{< brick_intro >}}
+
+# An easy-to-use app for aquarium control
+
+Borneo-IoT Mobile App is an easy-to-use, open-source, cross-platform mobile app for aquarium control.
+
+{{< button "Download for free" "https://github.com/borneo-iot/borneo/releases" >}}
 
 ![](/uploads/products/app/app.png)
 
-Borneo-IoT Mobile App is an easy-to-use, open-source, cross-platform mobile app for aquarium control.
+
+{{< /brick_intro >}}
+
+{{< brick_wide >}}
 
 {{< tabs >}}
 

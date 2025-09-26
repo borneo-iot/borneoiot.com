@@ -3,13 +3,15 @@ title: Home
 ---
 
 {{< brick_title2 >}}
-# The Open Platform Powering the Next Generation of Aquarium Devices
 
-**We handle the complex electronics and software, so you can focus on building great products.**
 
 ![](/uploads/photos/home/hero.jpg)
 
-{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+# The Open Platform for Next-Gen Smart WiFi Aquarium Lighting
+
+**We provide the electronics, firmware, and mobile app to take you from prototype to mass production.**
+
+{{< button2 "More Info →" "about" >}}
 
 {{< /brick_title2 >}}
 
@@ -25,15 +27,16 @@ title: Home
 * **Designed with safety and stability as priorities**: ensuring stable operation for many years.
 * **Fully metallic construction** with no 3D-printed parts, assembly can be completed without electronic skills.
 
-{{< button "Learn more" "products/ulva6" >}}
-
+<div class="btn-row" style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
+  {{< button2 "More Info" "/products/ulva6" >}}
+  {{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+</div>
 
 {{< /brick_video >}}
 
-
 {{< brick_image2 >}}
 
-## An Easy-to-use App
+## Borneo-IoT App
 
 ![](uploads/products/app/app.png)
 
@@ -44,7 +47,7 @@ title: Home
   * Manual control mode
 * Dark theme
 
-{{< button "Learn more" "products/app" >}}
+{{< button2 " More Info" "products/app" >}}
 
 {{< /brick_image2 >}}
 
@@ -56,10 +59,9 @@ Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi 
 
 ![](uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 
-{{< button "Learn More" "products/buce" >}}
+{{< button2 "Learn More" "products/buce" >}}
 
 {{< /brick_image >}}
-
 
 {{< brick_quote >}}
 

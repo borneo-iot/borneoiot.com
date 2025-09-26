@@ -38,8 +38,8 @@ menuitems:
     link: /about
 
 cta:
-  active: false
-  title: "❤ Donate"
-  link: /donate
+  active: true
+  title: "Crowd Supply Page"
+  link: https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller
 
 preheader: Borneo-IoT

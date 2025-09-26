@@ -104,11 +104,4 @@ Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
 
 {{< /brick_image2 >}}
 
-{{< brick_wide >}}
-
-## Resources
-
-* GitHub Repo: [https://github.com/borneo-iot/borneo](https://github.com/borneo-iot/borneo)
-
-
-{{< /brick_wide >}}
+{{< brick_cta >}}{{< /brick_cta >}}
