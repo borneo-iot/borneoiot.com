@@ -33,7 +33,7 @@ languages:
         posts: /blog/:year:month/:slug
       section:
         posts: /blog/
-        services: /services/
+        solutions: /solutions/
         products: /products/
 
   # zh:

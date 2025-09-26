@@ -3,7 +3,7 @@ logo_subtitle: Modular Smart Aquarium Device Solutions
 dark_header: true
 mobile_view_width: 1100
 menuitems:
-  - title: Hardwares
+  - title: Products
     link: /products
     items:
     - title: Ulva-6 (Open Source 6-Channel Reef LED)
@@ -16,6 +16,8 @@ menuitems:
 #      link: /products/colorata
   - title: App
     link: /products/app
+  - title: Solutions
+    link: /solutions
   - title: Blog
     link: /blog
   - title: Resources
