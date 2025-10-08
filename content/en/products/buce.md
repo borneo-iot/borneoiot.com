@@ -31,9 +31,59 @@ It is optimized for aquarium lighting but fits many LED projects. Connect a [con
 
 {{< /brick_image >}}
 
+{{< brick_features >}}
+
+## Features
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### All-in-One Controller
+
+Integrates WiFi/Bluetooth, LED PWM output, temperature/current/voltage monitoring, fan drive, buttons, indicator lights, and a built-in 36V voltage converter for comprehensive control.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### SOTA Hardware
+
+On a coin-sized footprint, maximizes the potential of the ESP32-C3 microcontroller, providing 6 hardware dimming channels, achieving 4096-level smooth dimming, and supporting up to 19kHz phase-shifted PWM output.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Feature-Rich
+
+Supports all commercial-grade lighting functions including multi-stage programmable dimming, location-based solar simulation, and soft start for professional applications.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Safety
+
+Equipped with over-temperature and over-power protection, along with PID adaptive cooling fan control to ensure reliable and safe operation.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### DIY Friendly
+
+Features a 0.1" pin-header interface for easy DIY projects and customization, requiring minimal peripheral circuits. Directly connect LED driver circuits and main power supply to create intelligent high-power LED lights.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Open-Source
+
+Buce is fully open-source hardware, certified by OSHWA, with open-source Python API, examples, and documentation available for easy integration and customization.
+
+{{< /brick_features >}}
+
 {{< brick_image2 >}}
 
 ![](/uploads/products/blc06mk1/block-diagram.svg)
+
+
 
 ## Quick specs
 - Channels: 6 independent PWM
@@ -108,18 +158,22 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 ![](/uploads/products/blc06mk1/peripherals.svg)
 
 
+---
 
 ## Resources
 
 * Online Documentation & Datasheet: [docs.borneoiot.com](https://docs.borneoiot.com/hardwares/buce)
 * GitHub Repo: [github.com/borneo-iot/borneo/borneo](https://github.com/borneo-iot/borneo/borneo)
 
-
+---
 
 ## Gallery
 
 {{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
 
+---
+
 {{< /brick_wide >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}
+
