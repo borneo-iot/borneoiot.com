@@ -9,8 +9,6 @@ tags:
   - xiao-esp32c3
 ---
 
-Dear aquarium enthusiasts and open-source makers,
-
 We're excited to announce that our firmware now supports the renowned Seeed XIAO-ESP32C3 module! This means users eager to test our firmware and mobile app can now do so using this module, without waiting for our dedicated controller to launch.
 
 ## Why the XIAO-ESP32C3?
