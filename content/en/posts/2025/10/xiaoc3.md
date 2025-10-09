@@ -27,42 +27,30 @@ While the XIAO-ESP32C3 lacks all the external peripherals of our dedicated contr
 
 Here's the pin assignment for our firmware on the XIAO-ESP32C3:
 
-| Pin  | Function             | Notes |
-|------|----------------------|-------|
-| D1   | LED PWM Channel 0    |       |
-| D2   | LED PWM Channel 1    |       |
-| D3   | LED PWM Channel 2    |       |
-| D4   | LED PWM Channel 3    |       |
-| D5   | LED PWM Channel 4    |       |
-| D6   | LED PWM Channel 5    |       |
-| D7   | Fan PWM Output       | Uses standard 25 kHz PWM |
-| D9   | User Button          | Shared with XIAO-ESP32C3's "Boot" button |
+| Pin | Function             | Notes                                                                 |
+|-----|----------------------|-----------------------------------------------------------------------|
+| D1  | LED PWM Channel 0    |                                                                       |
+| D2  | LED PWM Channel 1    |                                                                       |
+| D3  | LED PWM Channel 2    |                                                                       |
+| D4  | LED PWM Channel 3    |                                                                       |
+| D5  | LED PWM Channel 4    |                                                                       |
+| D6  | LED PWM Channel 5    |                                                                       |
+| D7  | Fan PWM Output       | Uses standard 25 kHz PWM                                              |
+| D9  | User Button          | Shared with XIAO-ESP32C3's "Boot" button                              |
 
-## How to Build and Flash Firmware
+## How To Get It Started
 
-To get started, follow these steps:
+1. Connect the XIAO-ESP32C3 using a USB cable.
+2. Flash the firmware using our web-based flasher: [flasher.borneoiot.com](https://flasher.borneoiot.com)
+    - Just select the firmware file and follow the on-screen instructions to flash your XIAO-ESP32C3 (no local program required).
 
-1. Connect the XIAO-ESP32C3 with a USB cable.
-2. Open an ESP-IDF terminal.
-3. Run the following commands:
-
-   ```
-   cd fw/lyfi  # Change to LyFi firmware directory
-   idf.py build -DPRODUCT_ID=bst/xiaoc3  # Build firmware
-   idf.py flash  # Flash firmware
-   idf.py monitor  # View firmware logs
-   ```
-
-4. After flashing, you can connect the module with our mobile app.
+After flashing, open our mobile app and use the "Add New Device" function to register it.
 
 ## Start Your Aquarium Lighting Project
 
 This support allows you to explore and test our firmware before our dedicated controller launches. Whether for reef tanks, planted aquariums, or custom lighting systems, the XIAO-ESP32C3 helps you get up and running quickly.
 
 We look forward to your feedback and ideas! If you have any questions, feel free to reach out.
-
-Thanks for your support,  
-The Borneo-IoT Team
 
 ---
 
