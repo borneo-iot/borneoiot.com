@@ -24,7 +24,6 @@ menuitems:
     items:
     - title: Online Firmware Flasher
       link: https://flasher.borneoiot.com
-    items:
     - title: Online Documentation
       link: https://docs.borneoiot.com
     - title: Download
