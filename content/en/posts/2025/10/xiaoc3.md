@@ -51,7 +51,3 @@ After flashing, open our mobile app and use the "Add New Device" function to reg
 This support allows you to explore and test our firmware before our dedicated controller launches. Whether for reef tanks, planted aquariums, or custom lighting systems, the XIAO-ESP32C3 helps you get up and running quickly.
 
 We look forward to your feedback and ideas! If you have any questions, feel free to reach out.
-
----
-
-{{< brick_cta >}}{{< /brick_cta >}}
