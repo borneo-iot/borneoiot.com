@@ -7,13 +7,39 @@ title: Home
 
 ![](/uploads/photos/home/hero.jpg)
 
-# The Open Platform for Next-Gen Smart WiFi Aquarium Lighting
+# Embedded Control for Pro-Grade Aquarium Lighting
 
-**We provide the electronics, firmware, and mobile app to take you from prototype to mass production.**
+**Whether you're a brand or a builder, we deliver the complete, code-free App control solution for high-performance Aquarium LEDs.**
 
 {{< button2 "More Info →" "about" >}}
 
 {{< /brick_title2 >}}
+
+{{< brick_features >}}
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Zero-Code, Instant Launch
+
+Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, controller, and brand-ready app. Skip software development and focus on hardware design.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Expert Aquatic Performance
+
+Gain premium aquatic functionality instantly. Our firmware includes 10+ channel dimming, sunrise/sunset simulation, and lunar cycling, meeting high-end reef and planted tank demands out of the box.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Dedicated OEM Partner
+
+We're your outsourced R&D department for smart products. Enjoy low costs, minimal orders, and end-to-end support from integration to App store submission, ensuring smooth market entry.
+
+{{< /brick_features >}}
+
 
 {{< brick_video >}}
 
@@ -67,7 +93,7 @@ Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi 
 
 ## Be Free
 
-The Borneo-IoT is an open hardware initiative, running with open-source firmware and provides an open-source mobile client app. All source code and design files are available on GitHub.
+All products we offer to DIY enthusiasts are fully open-source, with all code and designs available on GitHub.
 
 {{< button "GitHub Repo" "https://github.com/borneo-iot/borneo" >}}
 

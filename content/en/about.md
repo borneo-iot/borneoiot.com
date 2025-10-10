@@ -32,12 +32,4 @@ We hope you will find inspiration, tools, and maybe some fun here too. We invite
 {{< socialbuttons >}}
 
 
-___
-
-![](/uploads/photos/home/forbear.png)
-
-
-[^1]: The open-source repo does not provide mass production-related tools and software.
-
-
 {{< /brick_wide >}}
