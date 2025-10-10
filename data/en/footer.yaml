@@ -2,6 +2,8 @@ logo_image: /uploads/branding/website-logo.svg
 menuitems:
   - title: About
     link:  /about/
+  - title: Products
+    link: /products
   - title: App
     link: /products/app
   - title: Blog
