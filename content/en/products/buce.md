@@ -4,7 +4,7 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
 {{< brick_title >}}
-# Buce - 6-Channel All-in-One WiFi LED PWM Controller
+# Buce - 6-Channel LED PWM Controller
 
 **Buce is launching a crowdfunding campaign on Crowd Supply! Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
 
@@ -45,7 +45,7 @@ Integrates WiFi/Bluetooth, LED PWM output, temperature/current/voltage monitorin
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### SOTA Hardware
+### State of The Art Hardware
 
 On a coin-sized footprint, maximizes the potential of the ESP32-C3 microcontroller, providing 6 hardware dimming channels, achieving 4096-level smooth dimming, and supporting up to 19kHz phase-shifted PWM output.
 
