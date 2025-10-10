@@ -8,7 +8,7 @@
 {{- end -}}
 {{- $parts := split $inner "---" -}}
 <section class="features">
-    {{- if (strings.TrimSpace (index $parts 0)) -}}
+    {{- if (strings.TrimSpace (printf "%s" (index $parts 0))) -}}
     <div class="container small">
         {{- markdownify (index $parts 0) -}}
     </div>
