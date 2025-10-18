@@ -23,12 +23,7 @@ As a software engineer who loves aquariums and has experience with electronics, 
 
 Today, our mission is to provide small manufacturers and hobbyists with fully integrated hardware and software solutions that power aquarium lights and other smart aquatic devices. Our platform is designed to be easy to adopt, customizable, and cost effective, helping manufacturers bring smart products to market faster and with less risk.
 
-We welcome collaboration and contributions. Whether you are a manufacturer seeking a reliable foundation, a designer looking for flexible hardware options, or a hobbyist and developer eager to experiment, there are many ways to get involved.
-
 We hope you will find inspiration, tools, and maybe some fun here too. We invite partners and contributors to join us in building an open ecosystem that makes advanced smart aquarium technology accessible, customizable, and affordable for everyone.
-
-
-
 
 {{< /brick_wide >}}
 

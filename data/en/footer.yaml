@@ -6,6 +6,10 @@ menuitems:
     link:  /contact
   - title: Products
     link: /products
+  - title: Solutions
+    link: /solutions
+  - title: App
+    link: /products/app
   - title: Blog
     link:  /blog/
   - title: Privacy policy

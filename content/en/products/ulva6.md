@@ -3,7 +3,7 @@ title: "Ulva-6 Reef LED DIY Kit"
 image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
 ---
 
-{{< brick_title2 >}}
+{{< brick_title >}}
 
 # Ulva-6 Reef LED DIY Kit
 
@@ -11,7 +11,7 @@ image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
 
 ![](/uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
-{{< /brick_title2 >}}
+{{< /brick_title >}}
 
 {{< brick_video >}}
 

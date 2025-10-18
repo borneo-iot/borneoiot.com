@@ -1,14 +1,45 @@
 ---
 title: "Products"
-image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
+image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 ---
 
-{{< brick_blocks >}}
+{{< brick_title2 >}}
+
+![](/uploads/products/ulva6/gallery/ulva6-leds.jpg)
 
 # Our Products
 
-Our open, modular, and cost‑effective devices for smart aquariums. Each product combines integrated electronics and firmware designed for easy adoption, customization, and small‑scale manufacturing.
+{{< /brick_title2 >}}
 
+{{< brick_blocks >}}
+
+# For Professional Manufacturers
+
+---
+
+![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
+
+### BLC10 LED PWM Controller
+
+Our flagship 10-channel WiFi LED PWM controller.
+
+[](/products/blc10)
+
+---
+
+![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
+
+### BLC06E Embedded LED PWM Controller
+
+Our professional-grade 6-channel embedded WiFi LED PWM controller, designed for professional manufacturers.
+
+[](/products/blc06e)
+
+{{< /brick_blocks >}}
+
+{{< brick_blocks >}}
+
+# For DIY Enthusiasts
 
 ---
 
@@ -40,5 +71,6 @@ Open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module.
 [](/products/bacopa)
 
 {{< /brick_blocks >}}
+
 
 {{< brick_cta >}}{{< /brick_cta >}}
