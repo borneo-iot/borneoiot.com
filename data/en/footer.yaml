@@ -1,11 +1,11 @@
 logo_image: /uploads/branding/website-logo.svg
 menuitems:
-  - title: About
+  - title: About Us
     link:  /about/
+  - title: Contact Us
+    link:  /contact
   - title: Products
     link: /products
-  - title: App
-    link: /products/app
   - title: Blog
     link:  /blog/
   - title: Privacy policy

@@ -3,6 +3,8 @@ logo_subtitle: Modular Smart Aquarium Device Solutions
 dark_header: true
 mobile_view_width: 1100
 menuitems:
+  - title: Solutions
+    link: /solutions
   - title: Products
     link: /products
     items:
@@ -16,8 +18,6 @@ menuitems:
 #      link: /products/colorata
   - title: App
     link: /products/app
-  - title: Solutions
-    link: /solutions
   - title: Blog
     link: /blog
   - title: Resources
@@ -36,7 +36,9 @@ menuitems:
       link: https://www.reddit.com/r/borneoiot
     - title: Discord
       link: https://discord.gg/EFJTm7PpEs
-  - title: About
+    - title: Contact Us
+      link: /about#contact-us
+  - title: About Us
     link: /about
 
 cta:

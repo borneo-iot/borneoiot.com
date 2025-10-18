@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 weight: 2
 ---
 
@@ -27,9 +27,11 @@ We welcome collaboration and contributions. Whether you are a manufacturer seeki
 
 We hope you will find inspiration, tools, and maybe some fun here too. We invite partners and contributors to join us in building an open ecosystem that makes advanced smart aquarium technology accessible, customizable, and affordable for everyone.
 
----
 
-{{< socialbuttons >}}
 
 
 {{< /brick_wide >}}
+
+---
+
+{{< brick_contact >}}{{< /brick_contact >}}
