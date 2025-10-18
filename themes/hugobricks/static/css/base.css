@@ -458,3 +458,38 @@ details[open]:not(.closing) summary::after {
 .meta ul li::before {content: ","; margin-right: 0.4rem;}
 .meta ul li:first-child:before {content: none;}
 
+/*------------------------*/
+/* table
+/*------------------------*/
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.7em;
+    border: 1px solid var(--borderMedium);
+    border-radius: 0.25rem;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--borderLight);
+    text-align: left;
+    color: var(--textMedium);
+}
+
+th {
+    background: var(--light);
+    font-weight: bold;
+    color: var(--textDark);
+    border-bottom: 1px solid var(--borderMedium);
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+table tbody tr:nth-child(even) {
+    background: var(--light);
+}
+
