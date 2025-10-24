@@ -17,17 +17,17 @@ image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 
 ---
 
-![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
-
 ### BLC10 LED PWM Controller
 
 Our flagship 10-channel WiFi LED PWM controller.
+
+![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 
 [](/products/blc10)
 
 ---
 
-![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
+![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06e/thumb.jpg)
 
 ### BLC06E Embedded LED PWM Controller
 

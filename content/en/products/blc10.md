@@ -102,6 +102,4 @@ th {
 
 ---
 
-{{< brick_contact >}}
-## Contact us for more information!
-{{< /brick_contact >}}
+{{< brick_contact >}}{{< /brick_contact >}}
