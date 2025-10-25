@@ -39,10 +39,10 @@ Based on the [Buce](/products/buce) controller, the BLC06E has been optimized fo
 - Dimming levels: 4096
 - PWM freq: up to 19 kHz (configurable)
 - Cooling fan: directly drives two-wire fans and 20 kHz standard PWM fans via an internal regulator
-- Input voltage: 5–36 V
-- Current range: 25 A
+- Input voltage: 5~36 V
+- LED Current measurement range: 0~25A
 - Indicator: addressable full-color LED
-- Peripheral expansion: external full-color indicator, user button, INA138/INA139 current sensing, etc.
+- Peripheral expansion: external full-color indicator, user button, INA138/INA139 current sensig, etc.
 
 {{< /brick_image2 >}}
 
