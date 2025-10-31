@@ -42,7 +42,7 @@ Based on the [Buce](/products/buce) controller, the BLC06E has been optimized fo
 - Input voltage: 5~36 V
 - LED Current measurement range: 0~25A
 - Indicator: addressable full-color LED
-- Peripheral expansion: external full-color indicator, user button, INA138/INA139 current sensig, etc.
+- Peripheral expansion: external full-color indicator, user button, INA138/INA139 current sensor, etc.
 
 {{< /brick_image2 >}}
 
