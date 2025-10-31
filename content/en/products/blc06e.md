@@ -28,7 +28,7 @@ Based on the [Buce](/products/buce) controller, the BLC06E has been optimized fo
 
 {{< brick_image2 >}}
 
-![](/uploads/products/blc06mk1/block-diagram.svg)
+![](/uploads/products/blc06e/blc06e-block-diagram.png)
 
 
 ## Quick Specs
