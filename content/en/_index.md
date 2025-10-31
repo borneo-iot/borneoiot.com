@@ -9,7 +9,8 @@ title: Home
 
 # Embedded Control for Pro-Grade Aquarium Lighting
 
-**Whether you're a brand or a builder, we deliver the complete, code-free App control solution for high-performance Aquarium LEDs.**
+**Complete controller, firmware, and brand-ready app. Built for brands and makers.**
+
 
 {{< button2 "More Info →" "about" >}}
 

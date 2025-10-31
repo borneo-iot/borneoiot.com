@@ -29,7 +29,7 @@ menuitems:
       link: https://discord.gg/EFJTm7PpEs
     - title: Contact Us
       link: /about#contact-us
-  - title: About Us
+  - title: About
     link: /about
 
 cta:
