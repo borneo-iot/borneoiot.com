@@ -6,7 +6,6 @@ assetDir: static
 params:
   googleAnalytics: "G-HPQMWJZL8M"
 
-
 markup:
   goldmark:
     renderer:
@@ -26,6 +25,7 @@ languages:
   en:
     languageName: English
     contentDir: content/en
+    title: Borneo IoT | Open Source Smart Aquarium Controllers & OEM/ODM Solutions
     weight: 1
     disabled: false
     permalinks:
