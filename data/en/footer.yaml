@@ -3,7 +3,7 @@ menuitems:
   - title: About Us
     link:  /about/
   - title: Contact Us
-    link:  /contact
+    link:  /about#contactus
   - title: Products
     link: /products
   - title: Solutions

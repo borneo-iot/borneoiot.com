@@ -2,7 +2,7 @@
 title: contact
 ---
 
-## Contact Us
+## Contact Us {#contactus}
 
 - Yunnan BinaryStars Technologies, Co., Ltd.
 - **TEL/WhatsApp:** (+86) 15687397605
