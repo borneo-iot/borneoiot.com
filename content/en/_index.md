@@ -10,9 +10,9 @@ seo:
 
 ![](/uploads/photos/home/hero.jpg)
 
-# Embedded Control for Pro-Grade Aquarium Lighting
+# Open-Source Control for Pro-Grade Aquarium Lighting
 
-**Complete controller, firmware, and brand-ready app. Built for brands and makers.**
+**Complete embedded controller, firmware, and brand-ready app. Built for brands and makers.**
 
 
 {{< button2 "More Info →" "about" >}}
