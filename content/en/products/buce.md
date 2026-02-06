@@ -171,7 +171,7 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 | **Telemetry & Safety**| PID Fan, Volt/Amp/Power Monitor | None | Fan Control (Manual) | None |
 | **Open Source** | Full (HW, FW, & App) | Proprietary (Closed) | Proprietary (Closed) | Proprietary (Closed) |
 | **Form Factor** | Coin-sized Module (22×30mm) | Large Metal Housing | Medium PCB with LCD | Small Plastic Case |
-| **Price** | 💲 | 💲💲 | 💲💲💲 | 💲💲💲💲 |
+| **Price** | 💲💲 | 💲💲 | 💲💲💲 | 💲💲💲💲 |
 
 ## Pinout
 
