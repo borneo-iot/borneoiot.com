@@ -149,6 +149,30 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 {{< /tabs >}}
 
+## Feature Comparison: Buce vs. Competitors
+
+| Feature | Borneo Buce (BLC06) | TC420 / TC421 | Storm / Storm X | Bluefish Mini |
+| :--- | :--- | :--- | :--- | :--- |
+| **Device Category** | Logic Controller (Open-Source) | Power Driver (Finished Product) | Logic Controller (Legacy DIY) | Logic Controller (Cloud-Based) |
+| **Output Type** | 3.3V Logic PWM | MOSFET Power Stage (CV) | 5V Logic PWM | PWM / 0-10V Analog |
+| **Driver Requirement**| External Driver Required | No (Direct Drive LED Strips) | External Driver Required | External Driver Required |
+| **Dimming Curves** | Linear, Log, CIE1931, Gamma | Linear Only | Linear Only | Linear / Custom |
+| **Scheduling** | Multi-stage | Time-point based | 12-24hr Cycle | Multi-stage |
+| **Solar Simulation**| Geo-location Based | Manual Timer Only | Manual Sunrise/Set | Geo-location Based |
+| **Lunar Cycle** | Auto Moon Phase Sync (Pro Edition) | No | Yes (Basic) | Auto Moon Phase Sync |
+| **Cloud Simulation**| Supported | No | Yes | Supported |
+| **Lightning / Storm** | No | No | Yes | Yes |
+| **Acclimation Mode**| Supported | No | No | Supported |
+| **Channels** | 6 Channels | 5 Channels | 6 (Storm) / 16 (Storm X) | 6 Channels |
+| **Dimming Resolution**| 12-bit (4096 Levels) | 8-bit (256 Levels/100 Steps) | 8-bit / 12-bit (Storm X) | 12-bit (4096 Levels) |
+| **PWM Frequency** | Up to 19.5 kHz | ~1 kHz (Low Frequency) | ~1 kHz | Unknown |
+| **User Interface** | Mobile App (Local WiFi + Cloud) | USB / Mobile App (TC421) | On-board LCD + Knob | Mobile App (Cloud Only) |
+| **Temporary Mode** | App + Hardware Button | No | No | Yes (App) |
+| **Telemetry & Safety**| PID Fan, Volt/Amp/Power Monitor | None | Fan Control (Manual) | None |
+| **Open Source** | Full (HW, FW, & App) | Proprietary (Closed) | Proprietary (Closed) | Proprietary (Closed) |
+| **Form Factor** | Coin-sized Module (22×30mm) | Large Metal Housing | Medium PCB with LCD | Small Plastic Case |
+| **Price** | 💲 | 💲💲 | 💲💲💲 | 💲💲💲💲 |
+
 ## Pinout
 
 ![](/uploads/products/blc06mk1/gds.png)
