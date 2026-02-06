@@ -16,28 +16,28 @@ If you browse Reddit or DIY forums, you'll see many "Smart Aquarium" projects us
 
 But if you are serious about a planted tank or a reef system, these "student-level" DIY solutions are not just inadequate—they are risky. Here is why we designed the **Borneo IoT** ecosystem to move beyond these limitations.
 
-### The Spectrum Trap: "Colorful" is not "Functional"
+## The Spectrum Trap: "Colorful" is not "Functional"
 
 Generic 12V RGB strips are designed for under-cabinet lighting or gaming setups, not for photosynthesis.
 
 * **The Problem:** Plants and corals require specific peaks in the **actinic blue** and **full-spectrum red** ranges. Standard RGB LEDs use wide-band phosphors that lack the PAR (Photosynthetically Active Radiation) intensity needed for deep tanks.
 * **The Borneo IoT Difference:** Our controllers, like the **Ulva-6**, are built for **Multi-Channel High-Power LEDs**. We support independent control of specialized wavelengths (UV, Royal Blue, Deep Red) that actually drive coral growth and plant health.
 
-### PWM Flickering vs. True Dimming
+## PWM Flickering vs. True Dimming
 
 Most cheap DIY setups use low-frequency PWM (Pulse Width Modulation) to dim 12V strips.
 
 * **The Problem:** This creates a high-frequency flicker. While humans might not see it, research suggests it can stress sensitive aquatic life. Moreover, it creates "banding" effects if you try to photograph or record your tank.
 * **The Borneo IoT Difference:** We focus on **high-frequency, high-resolution dimming** and constant current drivers. This ensures a smooth "sunrise/sunset" transition that mimics nature without the jittery steps of a $5 controller.
 
-### The Humidity & Corrosion Factor
+## The Humidity & Corrosion Factor
 
 The environment above an aquarium is a nightmare for electronics—it’s essentially a warm, salt-spray chamber.
 
 * **The Problem:** Standard 12V strips and exposed ESP32 dev-boards use thin copper traces and no conformal coating. Within 3-6 months, you’ll see green oxidation (corrosion), leading to short circuits or fire hazards.
 * **The Borneo IoT Difference:** Our hardware (like the **BLC06E series**) is designed with industrial-grade PCB standards, optimized for heat dissipation, and intended to be housed in protected, modular enclosures. We build for **longevity**, not for a weekend hobby project.
 
-### Scalability: Beyond the Breadboard
+## Scalability: Beyond the Breadboard
 
 A 12V RGB strip is a "dead-end" architecture. If you want to add more power or more channels later, you have to rip the whole system out.
 
@@ -46,7 +46,7 @@ A 12V RGB strip is a "dead-end" architecture. If you want to add more power or m
 
 ---
 
-### Conclusion
+## Conclusion
 
 There is nothing wrong with experimenting with 12V strips to learn coding. But your livestock deserves a stable, professional environment.
 

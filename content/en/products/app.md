@@ -1,13 +1,14 @@
 ---
 title: "Borneo-IoT Mobile App"
+description: "The official open-source, cross-platform app for Borneo-IoT devices. Control your aquarium LEDs, manage scenes, and automate your tank from any device."
 image: /uploads/products/app/app.png
 ---
 
 {{< brick_intro >}}
 
-# An easy-to-use app for aquarium control
+# Your Aquarium, Controlled
 
-Borneo-IoT Mobile App is an easy-to-use, open-source, cross-platform mobile app for aquarium control.
+Borneo-IoT Mobile App is a powerful, open-source companion for your smart aquarium. Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
 
 {{< button "Download for free" "https://github.com/borneo-iot/borneo/releases" >}}
 
@@ -16,48 +17,75 @@ Borneo-IoT Mobile App is an easy-to-use, open-source, cross-platform mobile app 
 
 {{< /brick_intro >}}
 
+{{< brick_features >}}
+
+## App Features
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Cross-Platform
+Built with Flutter, the app runs seamlessly on Android, iOS, Windows, macOS, and Linux. One experience, all your devices.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Zero-Config Setup
+Automated device discovery using mDNS/Zeroconf and Bluetooth BLE provisioning. Get your devices online in seconds without touching your router settings.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Dynamic Scheduling
+Professional-grade multi-segment dimming for realistic sunrise and sunset simulations. Set it once and let the app handle the rest.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Scene Management
+Group devices and create scenes for different locations. Switch between "Daylight", "Moonlight", or "Maintenance" modes with a single tap.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Decentralized Control
+No internet? No problem. The app works entirely within your local network, ensuring privacy and reliability even when your cloud goes down.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Modern UI
+Featuring a native dark theme and multi-language support, the clean interface stays out of your way while giving you deep control.
+
+{{< /brick_features >}}
+
 {{< brick_wide >}}
 
 {{< tabs >}}
 
-## Features
+## Technical Information
 
-* **General Functions**
-    - WiFi provisioning based on the ESPTouch protocol
-    - Automated device discovery using mDNS/Zeroconf
-    - Scene management, allowing switching between different locations to control different devices
-    - Devices grouping
-* **Smart Wireless LED Control Functions**
-    - Multi-segment dimming for sunrise and sunset simulation
-    - Manual control mode
-    - Quick preview of multi-segment dimming
-    - Easy setup
-    - Temporary Lighting Mode
-* **GUI Features**:
-    - Dark theme
-    - Multi-language support
-* And more
+* **Framework**: Developed in Flutter for native performance.
+* **Architecture**: Modular design allowing easy integration of new device types.
+- **Connectivity**: Bluetooth BLE for provisioning, WiFi (mDNS/UDP) for control.
+* **Compatibility**: 
+    - Android 6.0+
+    - iOS 12.0+
+    - Windows 10/11
+    - macOS / Linux
 
 ---
 
-## Technical Information
+## Resources
 
-* Modular architecture that can easily support different devices
-* Cross-platform, developed in Flutter, supports: Android, iOS, Windows, Linux, macOS
+* **Documentation**: Detailed guides available at [docs.borneoiot.com](https://docs.borneoiot.com/mobile-app).
+* **Open Source**: Built with ❤️ by the community. Fork us on [GitHub](https://github.com/borneo-iot/borneo).
+* **Feedback**: Report issues or request features on our [Issue Tracker](https://github.com/borneo-iot/borneo/issues).
 
 {{< /tabs >}}
 
 ## Gallery
 
 {{< gallery dir="/uploads/products/app/gallery/" >}}
-
----
-
-## Resources
-
-* Online Documentation: [docs.borneoiot.com](https://docs.borneoiot.com/mobile-app)
-* GitHub Repo: [github.com/borneo-iot/borneo](https://github.com/borneo-iot/borneo)
-
-
 
 {{< /brick_wide >}}
