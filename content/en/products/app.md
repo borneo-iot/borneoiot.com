@@ -61,28 +61,33 @@ Featuring a native dark theme and multi-language support, the clean interface st
 
 {{< brick_wide >}}
 
-{{< tabs >}}
-
 ## Technical Information
 
 * **Framework**: Developed in Flutter for native performance.
 * **Architecture**: Modular design allowing easy integration of new device types.
-- **Connectivity**: Bluetooth BLE for provisioning, WiFi (mDNS/UDP) for control.
-* **Compatibility**: 
+* **Connectivity**: Bluetooth BLE for provisioning, WiFi (mDNS/UDP) for control.
+* **Compatibility**:
     - Android 6.0+
     - iOS 12.0+
     - Windows 10/11
     - macOS / Linux
 
----
+## Comparison
+
+| Feature | Community Edition (Open Source) | Pro Edition |
+| :--- | :--- | :--- |
+| LED Channels | 6 | 10+ |
+| Clustering (Master-Slave) | ❌ No | ✅ Supported |
+| Moonlight Mode | ❌ No | ✅ Dedicated & Main Channel Simulation |
+| Security | 🔒 Basic | 🔐 High |
+| Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote |
+| OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server |
 
 ## Resources
 
 * **Documentation**: Detailed guides available at [docs.borneoiot.com](https://docs.borneoiot.com/mobile-app).
 * **Open Source**: Fork us on [GitHub](https://github.com/borneo-iot/borneo).
 * **Feedback**: Report issues or request features on our [Issue Tracker](https://github.com/borneo-iot/borneo/issues).
-
-{{< /tabs >}}
 
 ## Gallery
 
