@@ -79,7 +79,7 @@ Featuring a native dark theme and multi-language support, the clean interface st
 ## Resources
 
 * **Documentation**: Detailed guides available at [docs.borneoiot.com](https://docs.borneoiot.com/mobile-app).
-* **Open Source**: Built with ❤️ by the community. Fork us on [GitHub](https://github.com/borneo-iot/borneo).
+* **Open Source**: Fork us on [GitHub](https://github.com/borneo-iot/borneo).
 * **Feedback**: Report issues or request features on our [Issue Tracker](https://github.com/borneo-iot/borneo/issues).
 
 {{< /tabs >}}
