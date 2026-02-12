@@ -158,8 +158,8 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 | **Driver Requirement**| External Driver Required | No (Direct Drive LED Strips) | External Driver Required | External Driver Required |
 | **Dimming Curves** | Linear, Log, CIE1931, Gamma | Linear Only | Linear Only | Linear / Custom |
 | **Scheduling** | Multi-stage | Time-point based | 12-24hr Cycle | Multi-stage |
-| **Solar Simulation**| Geo-location Based | Manual Timer Only | Manual Sunrise/Set | Geo-location Based |
-| **Lunar Cycle** | Auto Moon Phase Sync (Pro Edition) | No | Yes (Basic) | Auto Moon Phase Sync |
+| **Sun Simulation**| Geo-location Based | Manual Timer Only | Manual Sunrise/Set | Geo-location Based |
+| **Moonlight** | Geo-location Based | No | Yes (Basic) | Auto Moon Phase Sync |
 | **Cloud Simulation**| Supported | No | Yes | Supported |
 | **Lightning / Storm** | No | No | Yes | Yes |
 | **Acclimation Mode**| Supported | No | No | Supported |
