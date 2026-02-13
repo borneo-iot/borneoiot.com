@@ -9,7 +9,7 @@ weight: 2
 
 ![](/uploads/photos/home/hero.jpg)
 
-**We are building an open, modular, and affordable platform for smart aquarium devices — like Android for smartphones.**
+**We are building an open, modular, and affordable platform for smart aquarium devices.**
 
 {{< /brick_title >}}
 
