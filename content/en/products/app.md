@@ -78,7 +78,6 @@ Featuring a native dark theme and multi-language support, the clean interface st
 | :--- | :--- | :--- |
 | LED Channels | 6 | 10+ |
 | Clustering (Master-Slave) | ❌ No | ✅ Supported |
-| Moonlight Mode | ❌ No | ✅ Dedicated & Main Channel Simulation |
 | Security | 🔒 Basic | 🔐 High |
 | Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote |
 | OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server |
