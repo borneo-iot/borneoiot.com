@@ -20,7 +20,7 @@ img, figure, video, audio {max-width: 100%; display: block;}
 a {color: var(--textMedium);}
 h1, h2 {line-height: 1.1; font-size: 2.6rem; color: var(--textDark);}
 a.logo {line-height: 1.15; color: var(--textDark);}
-h1 {font-size: 3.25rem; margin-bottom: 1.75rem;}
+h1 {font-size: 2.5rem; margin-bottom: 1.75rem;}
 h1 + p {padding-top: 0.5rem;}
 h2 {margin-top: 3.5rem; margin-bottom: 1.25rem;}
 h2:first-child {margin-top: 0;}

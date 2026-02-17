@@ -5,19 +5,18 @@ seo:
   description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 controller to BLC06E OEM modules, we empower hobbyists and manufacturers."
 ---
 
-{{< brick_title2 >}}
-
+{{< brick_title >}}
 
 ![](/uploads/photos/home/hero.jpg)
 
-# Open-Source Control for Pro-Grade Aquarium Lighting
+# Open-Source Pro-Grade Aquarium LED
 
 **Complete embedded controller, firmware, and brand-ready app. Built for brands and makers.**
 
 
 {{< button2 "More Info →" "about" >}}
 
-{{< /brick_title2 >}}
+{{< /brick_title >}}
 
 {{< brick_features >}}
 
