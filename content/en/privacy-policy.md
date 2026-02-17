@@ -10,9 +10,9 @@ title: Privacy Policy
 
 {{< brick_wide >}}
 
+Effective date: February 17, 2026
 
-
-At BinaryStar Technologies, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you visit our website or use our services.
+This Privacy Policy describes how Yunnan BinaryStars Technologies, Co., Ltd. ("we", "us", or "our") collects, uses, and shares information when you visit borneoiot.com (the "Website") or contact us.
 
 ## Information We Collect
 
@@ -21,6 +21,10 @@ We may collect the following types of information:
 * **Personal Information:** This includes your name, email address, phone number, and any other information that can identify you personally.
 * **Usage Data:** This includes information about how you interact with our website, such as the pages you visit, the time you spend on each page, and your IP address.
 * **Cookies and Similar Technologies:** We use cookies and similar technologies to enhance your browsing experience and analyze website traffic.
+
+## Analytics
+
+We use Google Analytics to understand Website traffic and usage. Depending on your browser settings and consent choices, this may involve cookies and the collection of information such as pages viewed and approximate location derived from IP address.
 
 ## How We Use Your Information
 
@@ -58,6 +62,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please [contact us](about)
+If you have any questions or concerns about this Privacy Policy, please email contact@binarystarstech.com or [contact us](about)
 
 {{< /brick_wide >}}

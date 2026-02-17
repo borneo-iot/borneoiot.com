@@ -6,7 +6,7 @@ title: contact
 
 - Yunnan BinaryStars Technologies, Co., Ltd.
 - **TEL/WhatsApp:** (+86) 15687397605
-- **Email:** contact@binstarstech.com
+- **Email:** contact@binarystarstech.com
 - **Address:** Room 2, 34th Floor, Tower A, Kechuang Building, No. 505 Kexue Road, Wuhua District, Kunming City, Yunnan Province, China
 
 {{< socialbuttons >}}
