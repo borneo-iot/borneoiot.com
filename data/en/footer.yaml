@@ -4,14 +4,10 @@ menuitems:
     link:  /about/
   - title: Contact Us
     link:  /about#contactus
-  - title: Products
-    link: /products
-  - title: Solutions
-    link: /solutions
-  - title: App
-    link: /products/app
   - title: Blog
     link:  /blog/
+  - title: Showcase
+    link:  /blog/?tag=showcase
   - title: Privacy policy
     link:  /privacy-policy/
 socials:

@@ -5,6 +5,6 @@ title: Blog
 
 {{< breadcrumbs >}}
 
-# Blog posts
+# Blog Posts
 
 {{< /brick_posts >}}
