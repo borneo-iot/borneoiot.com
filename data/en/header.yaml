@@ -13,7 +13,7 @@ menuitems:
     link: /blog
   - title: Resources
     items:
-    - title: Online Firmware Flasher
+    - title: Online Firmware Installer
       link: https://flasher.borneoiot.com
     - title: Online Documentation
       link: https://docs.borneoiot.com
