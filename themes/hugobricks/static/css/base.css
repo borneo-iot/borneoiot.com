@@ -226,7 +226,14 @@ section.bgimage .container {position: relative; z-index: 2; color: white; paddin
 section.bgimage .container h1,
 section.bgimage .container h2 {color: white; text-align: center;}
 section.bgimage h1 + p {padding-top: 0; text-align: center; }
-section.bgimage .container p a.button { display: table; margin: 1rem auto; }
+section.bgimage .container p > a.button {
+    display: inline-block;
+    margin: 0.75rem 0.5rem;
+}
+section.bgimage .container p > a.button:only-child {
+    display: table;
+    margin: 1rem auto;
+}
 
 /*------------------------*/
 /* breadcrumbs

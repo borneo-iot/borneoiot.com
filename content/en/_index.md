@@ -11,10 +11,11 @@ seo:
 
 # Open-Source Pro-Grade Aquarium LED
 
-**Complete embedded controller, firmware, and brand-ready app. Built for brands and makers.**
+**Complete hardware + firmware + brand-ready Flutter app. Launch in 4-6 weeks.**
 
-
-{{< button2 "More Info →" "about" >}}
+{{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
+{{< button2 "GitHub" "https://github.com/borneo-iot/borneo/releases" >}}
+{{< button2 "Join Discord Community" "https://discord.gg/EFJTm7PpEs" >}}
 
 {{< /brick_title >}}
 
