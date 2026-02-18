@@ -83,9 +83,9 @@ We're your outsourced R&D department for smart products. Enjoy low costs, minima
 
 {{< brick_image >}}
 
-## Buce: 6-Channel All-in-One WiFi LED PWM Controller
+## Buce: 6-Channel All-in-One WiFi LED PWM Dimmer
 
-Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for engineers passionate about DIY LED projects, especially in aquariums and photography.
+Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded dimmer module. It’s designed for engineers passionate about DIY LED projects, especially in aquariums and photography.
 
 ![](uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 
