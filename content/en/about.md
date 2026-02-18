@@ -17,7 +17,7 @@ weight: 2
 
 ## Backstory
 
-Hi, I'm Wei Li, a software engineer from Yunnan, China. For the past 4+ years I have single-handedly designed the hardware (PCB + aluminum enclosure), written the production-grade firmware, developed the cross-platform Flutter app, and built this entire website. Every line of code, every solder joint, and every pixel is the result of one person's passion for affordable, open-source aquarium technology.
+Hi, I'm Wei Li, I am the founder of this project and a software engineer from Yunnan, China. For the past 4+ years I have single-handedly designed the hardware (PCB + aluminum enclosure), written the production-grade firmware, developed the cross-platform Flutter app, and built this entire website. Every line of code, every solder joint, and every pixel is the result of one person's passion for affordable, open-source aquarium technology.
 
 The story of Borneo-IoT began in 2021 when a deep passion for high-tech aquascaping collided with the reality of the prohibitively expensive market for professional lighting. Driven by the desire to cultivate a lush underwater garden without the crazy price tag, I initially sought to purchase an aquarium LED controller to build a custom solution. However, my journey faced an unexpected hurdle when a prominent supplier refused to sell me the necessary hardware, claiming that individual hobbyists were not worth the potential after-sales support burden compared to bulk commercial clients. This rejection became the ultimate catalyst for innovation because it transformed a simple DIY interest into a mission to democratize advanced aquarium technology.
 
