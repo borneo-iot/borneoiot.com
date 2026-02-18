@@ -25,7 +25,7 @@ languages:
   en:
     languageName: English
     contentDir: content/en
-    title: Borneo IoT | Open Source Smart Aquarium Controllers & OEM/ODM Solutions
+    title: Borneo IoT | Open Source Smart Aquarium Dimmers & OEM/ODM Solutions
     weight: 1
     disabled: false
     permalinks:

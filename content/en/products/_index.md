@@ -19,7 +19,7 @@ image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 
 ### BLC10 LED PWM Controller
 
-Our flagship 10-channel WiFi LED PWM controller.
+Our flagship 10-channel WiFi LED PWM dimmer.
 
 ![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 

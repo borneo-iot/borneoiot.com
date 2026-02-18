@@ -1,8 +1,8 @@
 ---
 title: Home
 seo:
-  title: Borneo IoT | Open Source Smart Aquarium Controllers & OEM/ODM Solutions
-  description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 controller to BLC06E OEM modules, we empower hobbyists and manufacturers."
+  title: Borneo IoT | Open Source Smart Aquarium Dimmers & OEM/ODM Solutions
+  description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 smart reef LED to BLC06E OEM modules, we empower hobbyists and manufacturers."
 ---
 
 {{< brick_title >}}
@@ -26,7 +26,7 @@ seo:
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
 ### Zero-Code, Instant Launch
 
-Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, controller, and brand-ready app. Skip software development and focus on hardware design.
+Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, dimmer, and brand-ready app. Skip software development and focus on hardware design.
 
 ---
 

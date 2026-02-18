@@ -12,7 +12,7 @@ All source code and design files are available on [GitHub](https://github.com/bo
     - `scripts`: Related Python scripts, including the device Python client library
     - `cmake`: CMake scripts
     - `components`: Common ESP-IDF component source code
-    - `lyfi`: LED controller firmware-related source code
+    - `lyfi`: LED dimmer firmware-related source code
     - `doser`: Dosing pump firmware-related source code (under development)
 - `hw/`: Circuit design source files
     - `blc06`: 6-channel LED controller core board design

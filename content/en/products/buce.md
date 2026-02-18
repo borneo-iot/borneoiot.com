@@ -1,10 +1,10 @@
 ---
-title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
+title: "Buce: 6-Channel All-in-One WiFi LED PWM Dimmer"
 image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
 {{< brick_title >}}
-# Buce - 6-Channel LED PWM Controller
+# Buce - 6-Channel LED PWM Dimmer
 
 **Buce is launching a crowdfunding campaign on Crowd Supply! Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
 
@@ -23,7 +23,7 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 
 ## Introduction
 
-Buce (Model BLC06) is an open-source, 6‑channel WiFi LED PWM controller for makers and engineers.
+Buce (Model BLC06) is an open-source, 6‑channel WiFi LED PWM dimmer for makers and engineers.
 
 Buce can be controlled via the [BorneoIoT mobile app](/products/app) (iOS & Android) for real‑time channel control, presets & scenes, scheduling, OTA firmware updates, and Wi‑Fi setup/device discovery.
 
@@ -38,7 +38,7 @@ It is optimized for aquarium lighting but fits many LED projects. Connect a [con
 ---
 
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
-### All-in-One Controller
+### All-in-One Dimmer
 
 Integrates WiFi/Bluetooth, LED PWM output, temperature/current/voltage monitoring, fan drive, buttons, indicator lights, and a built-in 36V voltage converter for comprehensive control.
 

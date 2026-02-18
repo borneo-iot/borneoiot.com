@@ -1,14 +1,14 @@
 ---
-title: "BLC06E: Professional 6-Channel Smart LED Controller"
+title: "BLC06E: Professional 6-Channel Smart LED Dimmer"
 image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 ---
 
 {{< brick_title >}}
-# BLC06E Controller
+# BLC06E Dimmer
 
 ![](/uploads/products/blc06e/gallery/001-cover.jpg)
 
-**Professional embedded 6-channel smart LED PWM controller**
+**Professional embedded 6-channel smart LED PWM dimmer**
 
 {{< /brick_title >}}
 
@@ -20,9 +20,9 @@ image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 
 ## Introduction
 
-The BLC06E is an embedded smart 6-channel LED controller designed for professional freshwater and reef light manufacturers. It integrates all the complex and precise circuitry into a coin-sized package, is driven by our in-house firmware platform, and is controlled by the [Borneo-IoT App](/products/app).
+The BLC06E is an embedded smart 6-channel LED dimmer designed for professional freshwater and reef light manufacturers. It integrates all the complex and precise circuitry into a coin-sized package, is driven by our in-house firmware platform, and is controlled by the [Borneo-IoT App](/products/app).
 
-Based on the [Buce](/products/buce) controller, the BLC06E has been optimized for cost and manufacturability for mass production. It uses an SMT board-to-board connector and a surface-mount screw nut for secure attachment, making it easy to connect to LED baseboards. Using the BLC06E eliminates the time and cost of firmware and app development, significantly accelerating time-to-market.
+Based on the [Buce](/products/buce) dimmer, the BLC06E has been optimized for cost and manufacturability for mass production. It uses an SMT board-to-board connector and a surface-mount screw nut for secure attachment, making it easy to connect to LED baseboards. Using the BLC06E eliminates the time and cost of firmware and app development, significantly accelerating time-to-market.
 
 {{< /brick_image >}}
 

@@ -1,12 +1,12 @@
 ---
-title: "Colorata: 10-Channel All-in-One WiFi LED PWM Controller"
+title: "Colorata: 10-Channel All-in-One LED PWM Dimmer"
 image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 ---
 
 {{< brick_title >}}
-# BLC10 LED PWM Controller
+# BLC10 LED PWM Dimmer
 
-**Our flagship 10-channel WiFi LED PWM controller.**
+**Our flagship 10-channel WiFi LED PWM dimmer.**
 
 ![](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 
@@ -14,7 +14,7 @@ image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 
 {{< brick_wide >}}
 
-Colorata (Model BLC10MK3) is our flagship 10-channel, all-in-one, WiFi LED PWM embedded controller module, developed for passionate engineers and lighting product manufacturers. Colorata is the "Pro" version of our highly successful 6-channel model, [Buce](./buce). It offers enhanced and superior features in every aspect while still maintaining a highly affordable cost.
+Colorata (Model BLC10MK3) is our flagship 10-channel, all-in-one, WiFi LED PWM embedded dimmer module, developed for passionate engineers and lighting product manufacturers. Colorata is the "Pro" version of our highly successful 6-channel model, [Buce](./buce). It offers enhanced and superior features in every aspect while still maintaining a highly affordable cost.
 
 
 ## Applications
