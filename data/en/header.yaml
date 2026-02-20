@@ -14,12 +14,14 @@ menuitems:
   - title: About
     link: /about
   - title: Resources
+    link: ?resources_menu
     items:
     - title: Online Firmware Installer
       link: https://flasher.borneoiot.com
     - title: Download
       link: https://github.com/borneo-iot/borneo/releases
   - title: Community
+    link: ?community_menu
     items:
     - title: GitHub
       link: https://github.com/borneo-iot/borneo

@@ -8,7 +8,9 @@ image: /uploads/products/app/app.png
 
 # Your Aquarium, Controlled
 
-Borneo-IoT Mobile App is a powerful, open-source companion for your smart aquarium. Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
+Borneo-IoT Mobile App is a powerful, open-source companion for your smart aquarium. 
+
+Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
 
 {{< button "Download for free" "https://github.com/borneo-iot/borneo/releases/tag/release-app-latest" >}}
 

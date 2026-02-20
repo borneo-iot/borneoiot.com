@@ -14,7 +14,7 @@ seo:
 **Complete hardware + firmware + brand-ready Flutter app. Launch in 4-6 weeks.**
 
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
-{{< button2 "GitHub" "https://github.com/borneo-iot/borneo/releases" >}}
+{{< button2 "App" "/app" >}}
 {{< button2 "Join Discord Community" "https://discord.gg/EFJTm7PpEs" >}}
 
 {{< /brick_title2 >}}
@@ -82,4 +82,4 @@ All products we offer to DIY enthusiasts are fully open-source, with all code an
 
 {{< /brick_quote >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_contact >}}{{< /brick_contact >}}

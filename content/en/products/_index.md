@@ -7,13 +7,13 @@ image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 
 ![](/uploads/products/ulva6/gallery/ulva6-leds.jpg)
 
-# Our Products
+# Our Hardware Products
 
 {{< /brick_title2 >}}
 
 {{< brick_blocks >}}
 
-# For Professional Manufacturers
+## For Manufacturers & Brands
 
 ---
 
@@ -39,7 +39,7 @@ Our professional-grade 6-channel embedded WiFi LED PWM controller, designed for 
 
 {{< brick_blocks >}}
 
-# For DIY Enthusiasts
+## For DIY Enthusiasts
 
 ---
 

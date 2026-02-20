@@ -17,6 +17,12 @@ section.intro img {margin: 3rem auto 0; width: 38rem;}
 section.intro img.is_svg {max-width: 85%;}
 section.intro h1 + p {padding-top: 0;}
 
+/* intro with media (two columns) should left-align text */
+section.intro.image .container.twocols .text {text-align: left;}
+@media (max-width: 600px) {
+    section.intro.image .container.twocols .text {text-align: center;}
+}
+
 /*------------------------*/
 /* brick post
 /*------------------------*/
