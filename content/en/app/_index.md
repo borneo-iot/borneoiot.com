@@ -4,7 +4,7 @@ description: "The official open-source, cross-platform app for Borneo-IoT device
 image: /uploads/products/app/app.png
 ---
 
-{{< brick_intro >}}
+{{< brick_intro3 >}}
 
 # Your Aquarium, Controlled
 
@@ -15,7 +15,9 @@ Borneo-IoT Mobile App is a powerful, open-source companion for your smart aquari
 ![](/uploads/products/app/app.png)
 
 
-{{< /brick_intro >}}
+{{< /brick_intro3 >}}
+
+---
 
 {{< brick_features >}}
 
@@ -58,6 +60,8 @@ No internet? No problem. The app works entirely within your local network, ensur
 Featuring a native dark theme and multi-language support, the clean interface stays out of your way while giving you deep control.
 
 {{< /brick_features >}}
+
+---
 
 {{< brick_wide >}}
 

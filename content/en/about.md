@@ -37,6 +37,7 @@ Enable small manufacturers and makers to bring high-performance, smart aquarium 
 - **Docs & reference designs:** schematics, PCB layouts, dev/eval boards
 - **OEM services:** branding, customization, and contract manufacturing
 
+
 ### Built For
 
 - **Brands & OEMs:** launch fast with zero-code integration and app branding
@@ -51,6 +52,34 @@ We invite partners and contributors to join us in making advanced smart aquarium
 {{< button "GitHub Repo" "https://github.com/borneo-iot/borneo" >}}
 
 {{< /brick_wide >}}
+
+
+---
+
+{{< brick_features >}}
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Zero-Code, Instant Launch
+
+Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, dimmer, and brand-ready app. Skip software development and focus on hardware design.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Expert Aquatic Performance
+
+Gain premium aquatic functionality instantly. Our firmware includes 10+ channel dimming, sunrise/sunset simulation, and lunar cycling, meeting high-end reef and planted tank demands out of the box.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Dedicated OEM Partner
+
+We're your outsourced R&D department for smart products. Enjoy low costs, minimal orders, and end-to-end support from integration to App store submission, ensuring smooth market entry.
+
+{{< /brick_features >}}
 
 
 ---

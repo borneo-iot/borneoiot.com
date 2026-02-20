@@ -3,18 +3,16 @@ logo_subtitle: Borneo-IoT
 dark_header: false
 mobile_view_width: 1100
 menuitems:
-  - title: Home
-    link: /
   - title: Products
     link: /products
   - title: App
-    link: /products/app
+    link: /app
   - title: Docs
     link: https://docs.borneoiot.com
-  - title: About
-    link: /about
   - title: Blog
     link: /blog
+  - title: About
+    link: /about
   - title: Resources
     items:
     - title: Online Firmware Installer

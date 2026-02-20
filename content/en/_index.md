@@ -5,7 +5,7 @@ seo:
   description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 smart reef LED to BLC06E OEM modules, we empower hobbyists and manufacturers."
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 
 ![](/uploads/photos/home/hero.jpg)
 
@@ -17,39 +17,14 @@ seo:
 {{< button2 "GitHub" "https://github.com/borneo-iot/borneo/releases" >}}
 {{< button2 "Join Discord Community" "https://discord.gg/EFJTm7PpEs" >}}
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
-{{< brick_features >}}
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Zero-Code, Instant Launch
-
-Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, dimmer, and brand-ready app. Skip software development and focus on hardware design.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Expert Aquatic Performance
-
-Gain premium aquatic functionality instantly. Our firmware includes 10+ channel dimming, sunrise/sunset simulation, and lunar cycling, meeting high-end reef and planted tank demands out of the box.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Dedicated OEM Partner
-
-We're your outsourced R&D department for smart products. Enjoy low costs, minimal orders, and end-to-end support from integration to App store submission, ensuring smooth market entry.
-
-{{< /brick_features >}}
 
 
 {{< brick_video >}}
 
 ## Meet Ulva-6
 
-{{< video "/uploads/video/ulva6-720p.mp4" >}}
 
 **Ulva-6** is the world's first high-end, fully open-source WiFi smart LED DIY kit for nano reef aquariums.
 
@@ -61,6 +36,8 @@ We're your outsourced R&D department for smart products. Enjoy low costs, minima
   {{< button2 "More Info" "/products/ulva6" >}}
   {{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 </div>
+
+{{< video "/uploads/video/ulva6-720p.mp4" >}}
 
 {{< /brick_video >}}
 
@@ -77,7 +54,7 @@ We're your outsourced R&D department for smart products. Enjoy low costs, minima
   * Manual control mode
 * Dark theme
 
-{{< button2 " More Info" "products/app" >}}
+{{< button2 " More Info" "/app" >}}
 
 {{< /brick_image2 >}}
 
