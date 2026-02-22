@@ -82,7 +82,6 @@ Featuring a native dark theme and multi-language support, the clean interface st
 
 | Feature | Community Edition (Open Source) | Pro Edition |
 | :--- | :--- | :--- |
-| LED Channels | 6 | 10+ |
 | Clustering (Master-Slave) | ❌ No | ✅ Supported |
 | Security | 🔒 Basic | 🔐 High |
 | Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote |
