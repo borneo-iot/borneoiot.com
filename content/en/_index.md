@@ -9,9 +9,9 @@ seo:
 
 ![](/uploads/photos/home/hero.jpg)
 
-# Open-Source Pro-Grade Aquarium LED
+# The Open-Source Platform for Smart Aquariums
 
-**Complete hardware + firmware + brand-ready Flutter app. Launch in 4-6 weeks.**
+**Build, customize, and scale intelligent aquarium devices on a unified open platform.**
 
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
 {{< button2 "App" "/app" >}}
