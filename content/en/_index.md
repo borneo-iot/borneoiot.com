@@ -11,7 +11,7 @@ seo:
 
 # The Open-Source Platform for Smart Aquariums
 
-**Build, customize, and scale intelligent aquarium devices on a unified open platform.**
+**An Open-Source, Local-First Platform Built on a Capability-Based Architecture for Smart Aquariums.**
 
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
 {{< button2 "App" "/app" >}}
