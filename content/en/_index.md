@@ -5,19 +5,25 @@ seo:
   description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 smart reef LED to BLC06E OEM modules, we empower hobbyists and manufacturers."
 ---
 
-{{< brick_title2 >}}
+{{< brick_title3 >}}
 
 ![](/uploads/photos/home/hero.jpg)
 
-# The Open-Source Platform for Smart Aquariums
+# The Open Platform for Smart Aquariums
 
-**An Open-Source, Local-First Platform Built on a Capability-Based Architecture for Smart Aquariums.**
+**Borneo-IoT Project is an open-source, local-first platform built on a modular architecture for smart aquariums.**
 
+<center>
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
+&nbsp;
+&nbsp;
 {{< button2 "App" "/app" >}}
+&nbsp;
+&nbsp;
 {{< button2 "Join Discord Community" "https://discord.gg/EFJTm7PpEs" >}}
+</center>
 
-{{< /brick_title2 >}}
+{{< /brick_title3 >}}
 
 
 

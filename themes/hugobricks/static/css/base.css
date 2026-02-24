@@ -505,3 +505,11 @@ table tbody tr:nth-child(even) {
     background: var(--light);
 }
 
+
+section.fullscreen {
+    height: 100dvh;
+}
+
+section.fullscreen .bgimage {
+    height: 100%;
+}

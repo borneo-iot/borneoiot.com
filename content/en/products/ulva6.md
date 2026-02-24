@@ -3,7 +3,7 @@ title: "Ulva-6 Reef LED DIY Kit"
 image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 
 # Ulva-6 Reef LED DIY Kit
 
@@ -11,7 +11,7 @@ image: /uploads/products/ulva6/gallery/ulva6-bg.jpg
 
 ![](/uploads/products/ulva6/gallery/ulva6-looking.jpg)
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
 {{< brick_video >}}
 
@@ -75,7 +75,7 @@ With 6 independent dimming channels, Ulva-6 can create unlimited color combinati
 
 Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
 
-{{< button "Learn more" "/products/app" >}}
+{{< button "Learn more" "/app" >}}
 
 {{< /brick_image2 >}}
 
