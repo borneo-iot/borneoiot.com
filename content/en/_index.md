@@ -13,15 +13,9 @@ seo:
 
 **Borneo-IoT Project is an open-source, local-first platform built on a modular architecture for smart aquariums.**
 
-<center>
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}}
-&nbsp;
-&nbsp;
 {{< button2 "App" "/app" >}}
-&nbsp;
-&nbsp;
 {{< button2 "Join Discord Community" "https://discord.gg/EFJTm7PpEs" >}}
-</center>
 
 {{< /brick_title3 >}}
 
