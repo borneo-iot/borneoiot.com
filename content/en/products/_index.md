@@ -68,5 +68,6 @@ Open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module.
 
 {{< /brick_blocks >}}
 
+---
 
 {{< brick_cta >}}{{< /brick_cta >}}
