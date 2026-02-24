@@ -73,7 +73,7 @@ With 6 independent dimming channels, Ulva-6 can create unlimited color combinati
 
 ![](/uploads/products/app/app.png)
 
-Ulva-6 is controlled using our user-friendly and powerful Borneo-IoT mobile app.
+Ulva-6 is controlled using our user-friendly and powerful Borneo Aqua Pro app.
 
 {{< button "Learn more" "/app" >}}
 

@@ -25,7 +25,7 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 
 Buce (Model BLC06) is an open-source, 6‑channel WiFi LED PWM dimmer for makers and engineers.
 
-Buce can be controlled via the [BorneoIoT mobile app](/app) (iOS & Android) for real‑time channel control, presets & scenes, scheduling, OTA firmware updates, and Wi‑Fi setup/device discovery.
+Buce can be controlled via the [Borneo Aqua Pro](/app) (iOS & Android) for real‑time channel control, presets & scenes, scheduling, OTA firmware updates, and Wi‑Fi setup/device discovery.
 
 It is optimized for aquarium lighting but fits many LED projects. Connect a [constant-current LED driver](/products/bacopa) and high-power LEDs — Buce handles the control and scheduling.
 

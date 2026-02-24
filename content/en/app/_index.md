@@ -1,5 +1,5 @@
 ---
-title: "Borneo-IoT Mobile App"
+title: "Borneoa Aqua Pro App"
 description: "The official open-source, cross-platform app for Borneo-IoT devices. Control your aquarium LEDs, manage scenes, and automate your tank from any device."
 image: /uploads/products/app/app.png
 ---
@@ -8,7 +8,7 @@ image: /uploads/products/app/app.png
 
 # Your Aquarium, Controlled
 
-Borneo-IoT Mobile App is a powerful, open-source companion for your smart aquarium. 
+Borneo Aqua Pro is a powerful, open-source companion for your smart aquarium. 
 
 Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
 
