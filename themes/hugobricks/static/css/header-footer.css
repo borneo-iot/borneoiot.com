@@ -145,7 +145,7 @@ header.dark > .container.has_cta > div:nth-child(3) > a > img,
 body.transparent_header header:not(.sticky) > .container.has_cta > div:nth-child(3) > a > img,
 header.dark a.logo > div img.inline,
 body.transparent_header header:not(.sticky) #togglemenu span,
-body.transparent_header header:not(.sticky) a.logo > div img.inline {filter: invert(1)!important;}
+/* body.transparent_header header:not(.sticky) a.logo > div img.inline {filter: invert(1)!important;} */
 header.dark + section.bgimage,
 body.transparent_header header + section.bgimage {padding-top: 0!important;}
 header .navnav.languages > ul > li > a {font-size: 0.9rem;}
@@ -182,7 +182,7 @@ footer.dark a.logo {color: white;}
 footer.dark > div:last-child {border-top: 1px solid rgba(255,255,255,0.1);}
 footer.dark select, footer.dark, footer.dark > div:last-child a, footer.dark ul li a {color: rgba(255,255,255,0.5);}
 footer.dark ul.buttons.social .button {background: var(--accent);}
-footer.dark a.logo img.inline {filter: invert(1)!important;}
+/* footer.dark a.logo img.inline {filter: invert(1)!important;} */
 footer.dark ul li a:not(.button)::after {background: rgba(255,255,255,0.5);}
 
 /*------------------------*/
