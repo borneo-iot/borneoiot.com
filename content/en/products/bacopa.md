@@ -2,13 +2,13 @@
 title: "Bacopa: 6-Channel Carrier/Driver Board for Buce"
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 # Bacopa: 6-Channel Carrier/Driver Board for Buce
 
 
 ![](/uploads/products/blm06mk1/gallery/IMG_20250323_165901.jpg)
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
 {{< brick_video >}}
 

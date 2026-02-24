@@ -3,14 +3,14 @@ title: "BLC06E: Professional 6-Channel Smart LED Dimmer"
 image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 # BLC06E Dimmer
 
 ![](/uploads/products/blc06e/gallery/001-cover.jpg)
 
 **Professional embedded 6-channel smart LED PWM dimmer**
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
 
 

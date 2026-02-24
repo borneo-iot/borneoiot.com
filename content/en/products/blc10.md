@@ -3,14 +3,14 @@ title: "Colorata: 10-Channel All-in-One LED PWM Dimmer"
 image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 # BLC10 LED PWM Dimmer
 
 **Our flagship 10-channel WiFi LED PWM dimmer.**
 
 ![](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
 {{< brick_wide >}}
 

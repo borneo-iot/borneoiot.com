@@ -3,7 +3,7 @@ title: "Buce: 6-Channel All-in-One WiFi LED PWM Dimmer"
 image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
-{{< brick_title >}}
+{{< brick_title2 >}}
 # Buce - 6-Channel LED PWM Dimmer
 
 **Buce is launching a crowdfunding campaign on Crowd Supply! Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
@@ -14,7 +14,7 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 
 ![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)
 
-{{< /brick_title >}}
+{{< /brick_title2 >}}
 
 
 {{< brick_image >}}
