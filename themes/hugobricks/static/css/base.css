@@ -6,6 +6,7 @@
     --borderLight: rgba(0,0,0,0.075);
     --accent: black;
     --accentDarker: black;
+    --secondary: gray;
     --light: rgba(0,0,0,0.03);
 }
 img {filter: grayscale(100%);}
@@ -191,7 +192,7 @@ div.box label.inborder::after {
 @media (min-width: 600px) {
 .button:hover, button:hover {transform: scale(1.035);}
 }
-.button.secondary {background: var(--textDark);}
+.button.secondary {background: var(--secondary);}
 .button.secondary.ghost {background: transparent; color: var(--textDark); box-shadow: inset 0 0 0 0.1rem var(--textDark);}
 .button.cs {background: #099;}
 .button.icon {

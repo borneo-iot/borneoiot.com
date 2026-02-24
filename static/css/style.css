@@ -9,13 +9,14 @@
 
 :root {
     --textDarker: #141318;
-    --textDark: #3a383e;
+    --textDark: #493B72;
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: #938f99;
     --borderLight: ##79757f; 
-    --accent: #63568f;
+    --accent: #493B72;
     --accentDarker: #3d3557;
     --light: rgba(38, 50, 56, 0.035);
+    --secondary: #E3D009;
 }
 /*------------------------*/
 /* turn grayscale off

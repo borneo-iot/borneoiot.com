@@ -177,7 +177,7 @@ footer select option:not([disabled]) {color: initial;}
     footer ul {margin: 0.25rem 0 0.5rem;}
 }
 
-footer.dark {background: var(--textDark);}
+footer.dark {background: var(--textDarker);}
 footer.dark a.logo {color: white;}
 footer.dark > div:last-child {border-top: 1px solid rgba(255,255,255,0.1);}
 footer.dark select, footer.dark, footer.dark > div:last-child a, footer.dark ul li a {color: rgba(255,255,255,0.5);}
