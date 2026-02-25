@@ -179,7 +179,7 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 ## Typical Peripheral Circuit Diagram
 
-![](/uploads/products/blc06mk1/peripherals.svg)
+![](/uploads/products/blc06/bo-blc06.png)
 
 
 ---
