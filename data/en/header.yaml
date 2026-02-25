@@ -13,6 +13,8 @@ menuitems:
     link: /blog
   - title: About
     link: /about
+  - title: Showcase
+    link:  https://discord.com/channels/1324667956545982536/1472971783362576455
   - title: Resources
     link: ?resources_menu
     items:
