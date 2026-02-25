@@ -136,7 +136,8 @@
             </ul>  
           </div>
           <div>
-            {{ partial "socialbuttons.html" . }}
+            {{/* show vertical buttons in footer and include titles */}}
+            {{ partial "socialbuttons.html" (dict "context" . "orientation" "vertical" "showTitle" true) }}
           </div>
         </div>
       </div>

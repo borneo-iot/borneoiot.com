@@ -9,8 +9,7 @@ title: contact
 - **Email:** contact@binarystarstech.com
 - **Address:** Room 2, 34th Floor, Tower A, Kechuang Building, No. 505 Kexue Road, Wuhua District, Kunming City, Yunnan Province, China
 
-{{< socialbuttons >}}
-
+{{< socialbuttons orientation="vertical" showTitle="true" >}}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>

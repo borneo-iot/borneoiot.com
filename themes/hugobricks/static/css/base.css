@@ -208,6 +208,8 @@ div.box label.inborder::after {
     width: calc(100% - 1.25em); 
     height: calc(100% - 1.25em);
     filter: invert(1);
+    display: block;
+    vertical-align: middle;
 }
 
 /* spacing when a font-awesome icon is included */
@@ -217,8 +219,55 @@ div.box label.inborder::after {
 p > .button {margin: 0.5rem 0;}
 ul.buttons {gap: 1rem; margin-left: 0; display: flex; padding: 0.5rem 0;}
 ul.buttons li {list-style: none;}
-ul.buttons.social .button {background: var(--textDark);}
+ul.buttons.social .button.icon {background: var(--textDark);}
+/* no background when vertical list */
+ul.buttons.social.vertical .button.icon {background: none; width: auto;}
+
 ul.buttons.social {justify-content: center;}
+/* orientation modifier */
+ul.buttons.social.vertical {flex-direction: column; align-items: flex-start; gap: 0rem;}
+/* make icon size relative to text when vertical, background uses theme color */
+ul.buttons.social.vertical .button.icon img {
+    width: 1em;
+    height: 1em;
+    filter: invert(1); /* turn dark icon light for contrast against accent background */
+}
+/* give icon container the theme accent background in vertical mode */
+ul.buttons.social.vertical .button.icon {
+    background: var(--accent); /* or another theme variable */
+    padding: 0.25em;         /* create padding around the smaller icon */
+    border-radius: 0.25em;  /* soften corners */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* default title spacing (horizontal layout) */
+ul.buttons.social .title {margin-left: 0.05rem; display: inline-block; line-height: 1rem; display: flex; align-items: center;}
+
+/* sociallink anchor styling */
+ul.buttons.social li a.sociallink {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    text-decoration: none;
+    color: inherit;
+    background: none;
+    padding: 0;
+    line-height: 0; /* remove baseline influence */
+}
+ul.buttons.social li a.sociallink .title {
+    line-height: normal;
+}
+/* underline via bottom border on title instead of text-decoration */
+ul.buttons.social li a.sociallink:hover .title,
+ul.buttons.social li a.sociallink:focus .title {
+    border-bottom: 1px solid currentColor;
+}
+/* vertical list: keep items left-aligned */
+ul.buttons.social.vertical li a.sociallink {
+    align-items: flex-start;
+}
 
 /*------------------------*/
 /* bgimage

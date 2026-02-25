@@ -1,5 +1,32 @@
-<ul class="buttons social">
-    {{- range (index page.Site.Data page.Site.Language.Lang).footer.socials -}}
-    <li><a href="{{ .link | safeURL }}" class="button icon"><img src="{{ .logo_image }}" alt="{{ .title }}" /></a></li>
+{{/*
+  Partial for rendering social buttons list.
+  Accepts a dict with optional keys:
+    "context"   - the page context (defaults to . if not provided)
+    "orientation" - "horizontal" or "vertical" (default "horizontal")
+    "showTitle" - bool whether to render the title text (default false)
+*/}}
+{{/* determine context, orientation and title flag */}}
+{{ $orientation := "horizontal" }}
+{{ $showTitle := false }}
+{{ $ctx := . }}
+{{ if isset . "context" }}
+  {{ with .context }}{{ $ctx = . }}{{ end }}
+  {{ with (index . "orientation") }}{{ $orientation = . }}{{ end }}
+  {{ with (index . "showTitle") }}{{ $showTitle = . }}{{ end }}
+{{ else }}
+  {{ with .orientation }}{{ $orientation = . }}{{ end }}
+  {{ with .showTitle }}{{ $showTitle = . }}{{ end }}
+{{ end }}
+
+<ul class="buttons social {{ $orientation }}">
+    {{- range (index $ctx.Site.Data $ctx.Site.Language.Lang).footer.socials -}}
+    <li>
+      <a href="{{ .link | safeURL }}" class="sociallink">
+        <span class="button icon">
+          <img src="{{ .logo_image }}" alt="{{ .title }}" />
+        </span>
+        {{- if $showTitle -}}<span class="title">{{ .title }}</span>{{- end -}}
+      </a>
+    </li>
     {{- end -}}
 </ul>

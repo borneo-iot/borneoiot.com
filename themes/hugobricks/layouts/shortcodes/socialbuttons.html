@@ -2,8 +2,13 @@
 {{/* 
 
 Usage:
-{{< socialbuttons >}}
-    
+{{< socialbuttons orientation="vertical" showTitle="true" >}}
+
+orientation: horizontal (default) or vertical
+showTitle: true/false (default false)
 */}}
 -->
-{{ partial "socialbuttons.html" . }}
+{{ $orientation := .Get "orientation" | default "horizontal" }}
+{{ $showTitle := .Get "showTitle" | default false }}
+{{/* pass page context explicitly */}}
+{{ partial "socialbuttons.html" (dict "context" .Page "orientation" $orientation "showTitle" $showTitle) }}
