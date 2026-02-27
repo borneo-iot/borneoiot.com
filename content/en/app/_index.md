@@ -82,10 +82,10 @@ Featuring a native dark theme and multi-language support, the clean interface st
 
 | Feature | Community Edition (Open Source) | Pro Edition |
 | :--- | :--- | :--- |
-| Clustering (Master-Slave) | ❌ No | ✅ Supported |
+| Clustering (Master-Slave) | ❌ No | ✅ Supported (WIP) |
 | Security | 🔒 Basic | 🔐 High |
-| Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote |
-| OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server |
+| Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote (WIP) |
+| OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server (WIP) |
 
 ## Resources
 
