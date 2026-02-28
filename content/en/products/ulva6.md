@@ -50,7 +50,7 @@ Ulva-6 is an open-source product that makes no compromises on functionality or p
 
 ## From the Code to the Glow
 
-![](/uploads/products/ulva6/gallery/ulva6-spectrogram.png)
+![](/uploads/products/ulva6/gallery/ulva6-spectrogram.svg)
 
 The high-power dual-chip packaged LED beads used in Ulva-6, delivering up to 60W, contain the full spectrum required for coral growth and viewing.
 
