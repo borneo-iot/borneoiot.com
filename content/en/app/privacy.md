@@ -1,18 +1,21 @@
 ---
-title: Borneo-IoT App Privacy Policy
+title: Borneo-IoT Auqa Pro App Privacy Policy
 ---
 
 {{< brick_title >}}
 
-# Borneo-IoT App Privacy Policy
+# Borneo-IoT Aqua Pro App Privacy Policy
+
+**Effective date: February 17, 2026**
 
 {{< /brick_title >}}
 
 {{< brick_wide >}}
 
-Effective date: February 17, 2026
 
-This Privacy Policy describes how the Borneo-IoT Client app ("the App") collects, uses, and shares information when you use the App. The App is provided by Yunnan BinaryStars Technologies, Co., Ltd. ("we", "us", or "our"). The App currently controls aquarium devices locally over CoAP. Future releases may offer optional cloud-based remote control via MQTT and subscription services.
+**This Privacy Policy describes how the Borneo Aqua Pro mobile app ("the App") collects, uses, and shares information when you use the App. 
+The App is provided by Yunnan BinaryStars Technologies, Co., Ltd. ("we", "us", or "our").
+The App currently controls aquarium devices locally over CoAP. Future releases may offer optional cloud-based remote control via MQTT and subscription services.**
 
 ## Summary
 - The App uses local CoAP communication by default — device commands and state remain on your local network unless you opt into cloud features.
@@ -85,7 +88,12 @@ We may use third-party services for certain features, including payment processi
 
 ## Contact
 
-- For questions, requests, or concerns: contact@binarystarstech.com
-- Address: Room 2, 34th Floor, Tower A, Kechuang Building, No. 505 Kexue Road, Wuhua District, Kunming City, Yunnan Province, China
+If you have any questions about these Terms, please contact us at:
+
+* **Website:** [www.borneoiot.com](https://www.borneoiot.com)
+* **Email:** [contact@binarystarstech.com](mailto:contact@binarystarstech.com)
+* **Address:** Room 2, 34th Floor, Tower A, Kechuang Building, No. 505 Kexue Road, Wuhua District, Kunming City, Yunnan Province, China
+
+
 
 {{< /brick_wide >}}
