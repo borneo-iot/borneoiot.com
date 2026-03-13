@@ -12,7 +12,9 @@ image: /uploads/products/app/app.png
 
 Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
 
-{{< button "Download for free" "https://github.com/borneo-iot/borneo/releases/tag/release-app-latest" >}}
+{{< button "FREE Download" "https://github.com/borneo-iot/borneo/releases/tag/release-app-latest" >}}
+
+[**Join the iOS Beta Testing**](https://testflight.apple.com/join/k7tkzV4H)
 
 ![](/uploads/products/app/app.png)
 
