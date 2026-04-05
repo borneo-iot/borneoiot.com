@@ -1,4 +1,8 @@
 action: https://formcarry.com/s/ZR2yYaGVERd
+recaptcha:
+  version: v3
+  site_key: 6LfJY-4rAAAAAFMm68KUx0hqWSMzg9-mJZ4ou2Zm
+  action: contact_form
 placeholders: false
 fields:
 - name: title

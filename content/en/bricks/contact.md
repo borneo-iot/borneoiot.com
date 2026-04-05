@@ -14,9 +14,32 @@ title: contact
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>
 $(function(){
-  $("#contactform").submit(function(e){
+  $("#contactform").submit(async function(e){
     e.preventDefault();
-    var href = $(this).attr("action");
+    var $form = $(this);
+    var href = $form.attr("action");
+    var siteKey = $form.data("recaptchaSitekey");
+    var recaptchaAction = $form.data("recaptchaAction") || "submit";
+
+    if (siteKey) {
+      if (!window.grecaptcha) {
+        alert("reCAPTCHA failed to load. Please refresh the page and try again.");
+        return;
+      }
+
+      try {
+        var token = await new Promise(function(resolve, reject) {
+          window.grecaptcha.ready(function() {
+            window.grecaptcha.execute(siteKey, { action: recaptchaAction }).then(resolve, reject);
+          });
+        });
+
+        $form.find('[name="g-recaptcha-response"]').val(token);
+      } catch (error) {
+        alert("reCAPTCHA verification failed. Please try again.");
+        return;
+      }
+    }
     
     $.ajax({
         type: "POST",
