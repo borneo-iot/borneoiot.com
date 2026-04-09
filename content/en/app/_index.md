@@ -12,11 +12,11 @@ image: /uploads/products/app/app.png
 
 Designed for ease of use and flexibility, it gives you complete control over your Borneo-IoT LED lighting and smart devices from any platform.
 
-<div style="text-align: left; margin-bottom: 0.5em">
+<p>
   <a href="https://apps.apple.com/us/app/borneo-aqua-pro/id6759588830" style="display: inline-block;">
-    <img src="/uploads/products/app/download-on-the-app-store.svg" alt="Download on App Store" height="60" style="display: block; width: auto; max-width: 100%; margin: 0 0;">
+    <img src="/uploads/products/app/download-on-the-app-store.svg" alt="Download on App Store" height="60px" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt;">
   </a>
-</div>
+</p>
 
 [**Google Android (APK)**](https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.apk) |
 [**Microsoft Windows (ZIP)**](https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.windows-x64.zip) |
