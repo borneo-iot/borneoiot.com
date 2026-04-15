@@ -81,6 +81,13 @@ section.title .container.small {text-align: center;}
 section.title:not(.bgimage) {padding-bottom: 3.25rem;}
 section.title ul.breadcrumbs li a {color: var(--accent);}
 section.title.bgimage ul.breadcrumbs:first-child {margin-top: -2rem;}
+section.title .twocols h1,
+section.title .twocols h2,
+section.title .twocols p {text-align: left; text-shadow: none;}
+section.title.bgimage a.button { display: inline-block; background-color: var(--accent); }
+section.title.bgimage a.button:first-child {
+    margin-left: 0;
+}
 
 
 /*------------------------*/
