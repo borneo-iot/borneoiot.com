@@ -43,7 +43,7 @@ The Borneo-IoT firmware is designed and developed to professional standards, del
 
 {{< brick_wide >}}
 
-## 技术信息
+## Tech Specs
 
 ### Supported MCUs
 
