@@ -92,10 +92,10 @@ With dark mode and multi-language support, the interface stays clean and easy to
 
 | Feature | Community Edition (Open Source) | Pro Edition |
 | :--- | :--- | :--- |
-| Clustering (Master-Slave) | ❌ No | ✅ Supported (WIP) |
+| Clustering (Master-Slave) | ❌ No | ✅ Supported |
 | Security | 🔒 Basic | 🔐 High |
 | Cloud & Remote Control | 📶 Local WiFi Only | 🌍 Local + Remote (WIP) |
-| OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server (WIP) |
+| OTA Updates | 📶 Local WiFi Only | ☁️ Cloud Server |
 
 ## Resources
 
