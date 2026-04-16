@@ -3,12 +3,12 @@ logo_subtitle: Open Aquarium Platform
 dark_header: false
 mobile_view_width: 1100
 menuitems:
-  - title: Products
-    link: /products
   - title: App
     link: /app
-  - title: Docs
-    link: https://docs.borneoiot.com
+  - title: Hardwares
+    link: /products
+  - title: Firmware
+    link: /firmware
   - title: Blog
     link: /blog
   - title: About
@@ -16,6 +16,8 @@ menuitems:
   - title: Resources
     link: ?resources_menu
     items:
+    - title: Docs
+      link: https://docs.borneoiot.com
     - title: Online Firmware Installer
       link: https://flasher.borneoiot.com
     - title: Download
@@ -29,8 +31,8 @@ menuitems:
       link: https://www.reddit.com/r/borneoiot
     - title: Discord
       link: https://discord.gg/EFJTm7PpEs
-    - title: Contact Us
-      link: /about#contactus
+  - title: Contact
+    link: /about#contactus
 
 cta:
   active: true

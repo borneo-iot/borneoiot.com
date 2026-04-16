@@ -15,7 +15,7 @@ seo:
 
 **From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
 
-{{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}} {{< button2 "Android/iOS App" "/app" >}}
+{{< button2 "Mobile App" "app/" >}} {{< button2 "Our Hardwares" "products/" >}} {{< button2 "Firmware" "firmware/" >}}
 
 {{< /brick_title4 >}}
 

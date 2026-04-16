@@ -1,5 +1,5 @@
 ---
-title: "Products"
+title: "Hardwares"
 image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 ---
 
