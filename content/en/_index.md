@@ -9,9 +9,11 @@ seo:
 
 ![](/uploads/photos/home/hero2.jpg)
 
-# The Open Platform for Smart Aquariums
+# Instant Intelligence for Your Aquatic LED
 
-**Borneo-IoT Project is an open-source, local-first platform built on a modular architecture for smart aquariums with zero 3D-printing and Arduino involved.**
+**Accelerate your brand or DIY project with our production-ready control ecosystem.**
+
+**From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
 
 {{< button2 "Web Firmware Installer" "https://flasher.borneoiot.com" >}} {{< button2 "Android/iOS App" "/app" >}}
 
