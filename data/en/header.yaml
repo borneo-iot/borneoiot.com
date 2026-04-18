@@ -5,7 +5,7 @@ mobile_view_width: 1100
 menuitems:
   - title: App
     link: /app
-  - title: Hardwares
+  - title: Hardware
     link: /products
   - title: Firmware
     link: /firmware
