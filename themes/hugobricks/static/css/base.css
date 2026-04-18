@@ -562,3 +562,16 @@ section.fullscreen {
 section.fullscreen .bgimage {
     height: 100%;
 }
+
+
+.title .twocols ul,ol {
+  list-style: none;
+  margin-left: 0;
+
+}
+
+section.bgimage .container p > a.button:only-child,
+.title .twocols ul li p a {
+    margin: 0.5rem 0;
+    display: inline-block;
+}

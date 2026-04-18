@@ -15,7 +15,9 @@ seo:
 
 **From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
 
-{{< button2 "Mobile App" "app/" >}} {{< button2 "Our Hardware" "products/" >}} {{< button2 "Firmware" "firmware/" >}}
+- {{< button "Download Mobile App for Free" "app/" >}}
+- {{< button "Check Our Hardware" "products/" >}}
+- {{< button "Try The Firmware Web Installer" "firmware/" >}}
 
 {{< /brick_title4 >}}
 
