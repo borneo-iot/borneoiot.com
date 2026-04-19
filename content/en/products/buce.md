@@ -3,96 +3,48 @@ title: "Buce: 6-Channel All-in-One WiFi LED PWM Dimmer"
 image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
-{{< brick_title2 >}}
+{{< brick_title >}}
 # Buce - 6-Channel LED PWM Dimmer
 
-**Buce is launching a crowdfunding campaign on Crowd Supply! Subscribe to the campaign page to receive updates, shipping information, and early-backer announcements.**
+Easy-to-use embedded 6-channel smart LED PWM dimmer.
 
-
-{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
-
+{{< button "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 
 ![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)
 
-{{< /brick_title2 >}}
-
+{{< /brick_title >}}
 
 {{< brick_image >}}
 
-![](/uploads/products/blc06mk1/gallery/blc06mk1-1.jpg)
+![](/uploads/products/blc06/features.jpg)
 
 ## Introduction
 
-Buce (Model BLC06) is an open-source, 6‑channel WiFi LED PWM dimmer for makers and engineers.
+The Buce module integrates every high-end feature standard in professional reef and planted tank lighting, offering a level of control and precision that rivals any flagship LED fixture on the market.
 
-Buce can be controlled via the [Borneo Aqua Pro](/app) (iOS & Android) for real‑time channel control, presets & scenes, scheduling, OTA firmware updates, and Wi‑Fi setup/device discovery.
+It features six independent PWM dimming channels, allowing users to customize and control lighting effects wirelessly through our easy-to-use [Borneo Aqua Pro](/app).
 
-It is optimized for aquarium lighting but fits many LED projects. Connect a [constant-current LED driver](/products/bacopa) and high-power LEDs — Buce handles the control and scheduling.
+Applications: aquatic lighting, photography lighting, home lighting and more.
+
 
 {{< /brick_image >}}
-
-{{< brick_features >}}
-
-## Features
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### All-in-One Dimmer
-
-Integrates WiFi/Bluetooth, LED PWM output, temperature/current/voltage monitoring, fan drive, buttons, indicator lights, and a built-in 36V voltage converter for comprehensive control.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### State of The Art Hardware
-
-On a coin-sized footprint, maximizes the potential of the ESP32-C3 microcontroller, providing 6 hardware dimming channels, achieving 4096-level smooth dimming, and supporting up to 19kHz phase-shifted PWM output.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Feature-Rich
-
-Supports all commercial-grade lighting functions including multi-stage programmable dimming, location-based solar simulation, and soft start for professional applications.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Safety
-
-Equipped with over-temperature and over-power protection, along with PID adaptive cooling fan control to ensure reliable and safe operation.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### DIY Friendly
-
-Features a 0.1" pin-header interface for easy DIY projects and customization, requiring minimal peripheral circuits. Directly connect LED driver circuits and main power supply to create intelligent high-power LED lights.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Open-Source
-
-Buce is fully open-source hardware, certified by OSHWA, with open-source Python API, examples, and documentation available for easy integration and customization.
-
-{{< /brick_features >}}
 
 {{< brick_image2 >}}
 
 ![](/uploads/products/blc06mk1/block-diagram.svg)
 
+## Quick Specs
 
-
-## Quick specs
+- Micro-controller: ESP32-C3
 - Channels: 6 independent PWM
-- Dimming levels: 4096
-- PWM freq: up to 19 kHz (configurable)
-- Input voltage: 5–36 V
-- Size: 22 × 30 mm
-- Thermal shutdown: >65 °C (configurable)
-- Interfaces: `0.1"` pin header, optional INA139, external button
+- Driver Compatibility: Supports a wide range of Constant Current (CC) and Constant Voltage (CV) LED drivers.
+- Dimming Levels: 4096
+- PWM Frequency: up to 19.5 kHz (configurable)
+- Input Voltage: 5–36 V
+- Thermal Shutdown: >65 °C (configurable)
+- Interfaces: 0.1"(2.54 mm) pin header
+- Supported Peripherals: INA138/INA139 current sensor / push button / NTC / fan
+- Dimensions: 22 × 30 mm
 
 {{< /brick_image2 >}}
 
@@ -104,17 +56,6 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 [![](/uploads/products/blc06mk1/oshwa.png)](https://certification.oshwa.org/cn000017.html)
 
-## Applications
-
-* **Aquarium Lighting**
-    Aquarium hobbyists can use Buce to simulate natural lighting environments, promoting the health and growth of aquatic plants or corals.
-* **Photography Lighting**
-    Photographers can set up dynamic lighting scenes to capture stunning images with precise control over brightness and color, perfect for studio or outdoor shoots.
-* **Home Lighting**
-    DIY enthusiasts can integrate Buce into their smart home systems to create personalized lighting ambiances for different rooms and occasions, with smooth transitions throughout the day.
-* **And More**
-    Let your creativity shine.
-
 {{< tabs >}}
 
 ## Dimming
@@ -124,10 +65,6 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 - 4096 levels, soft start/shutdown, phase shifting to reduce peak driver current.
 - Solar simulation using astronomical algorithms.  
 - High-frequency PWM (up to 19 kHz) and phase shifting minimize flicker and noise.
-
-### Supported Brightness Correction Curves
-
-![](/uploads/products/lyfi/borneo-led-curves.svg)
 
 ---
 
@@ -177,10 +114,13 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 ![](/uploads/products/blc06mk1/gds.png)
 
-## Typical Peripheral Circuit Diagram
+## Usage Example
 
 ![](/uploads/products/blc06/bo-blc06.png)
 
+## Dimensions
+
+![Dimensions](/uploads/products/blc06/dimensions.svg)
 
 ---
 
