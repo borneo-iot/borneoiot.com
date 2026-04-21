@@ -14,11 +14,14 @@ Designed for ease of use and flexibility, it gives you complete control over you
 
 <p>
   <a href="https://apps.apple.com/us/app/borneo-aqua-pro/id6759588830" style="display: inline-block;">
-    <img src="/uploads/products/app/download-on-the-app-store.svg" alt="Download on App Store" height="60px" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt;">
+    <img src="/uploads/illustrations/download-on-the-app-store.svg" alt="Download on App Store" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt; height: 60px;">
+  </a>
+
+  <a href="https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.apk" style="display: inline-block;">
+    <img src="/uploads/illustrations/download-android-apk.svg" alt="Download Android APK file" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt; height: 60px; margin-left: 15pt;">
   </a>
 </p>
 
-[**Google Android (APK)**](https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.apk) |
 [**Microsoft Windows (ZIP)**](https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.windows-x64.zip) |
 [**More Downloads**](https://github.com/borneo-iot/borneo/releases/tag/release-app-latest)
 
