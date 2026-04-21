@@ -8,7 +8,6 @@ image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 
 Easy-to-use embedded 6-channel smart LED PWM dimmer.
 
-{{< button "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 
 ![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)
 
@@ -26,6 +25,7 @@ It features six independent PWM dimming channels, allowing users to customize an
 
 Applications: aquatic lighting, photography lighting, home lighting and more.
 
+{{< button "Get It on PCBWay Store" "https://www.pcbway.com/project/gifts_detail/6_Channel_Wi_Fi_PWM_LED_Dimmer_for_Aquariums_adb134c9.html" >}}
 
 {{< /brick_image >}}
 
@@ -128,14 +128,13 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 * Online Documentation & Datasheet: [docs.borneoiot.com](https://docs.borneoiot.com/hardwares/buce)
 * GitHub Repo: [github.com/borneo-iot/borneo/borneo](https://github.com/borneo-iot/borneo/borneo)
+* PCBWay Store: [Get it now on PCBWay store](https://www.pcbway.com/project/gifts_detail/6_Channel_Wi_Fi_PWM_LED_Dimmer_for_Aquariums_adb134c9.html)
 
 ---
 
 ## Gallery
 
 {{< gallery dir="/uploads/products/blc06mk1/gallery" >}}
-
----
 
 {{< /brick_wide >}}
 
