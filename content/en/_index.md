@@ -35,7 +35,7 @@ seo:
 * **Fully metallic construction** with no 3D-printed parts, assembly can be completed without electronic skills.
 
 <div class="btn-row" style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
-  {{< button2 "More Info" "/products/ulva6" >}}
+  {{< button "More Info" "/products/ulva6" >}}
   {{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
 </div>
 
@@ -56,7 +56,7 @@ seo:
   * Manual control mode
 * Dark theme
 
-{{< button2 " More Info" "/app" >}}
+{{< button " More Info" "/app" >}}
 
 {{< /brick_image2 >}}
 
@@ -68,7 +68,7 @@ Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi 
 
 ![](uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 
-{{< button2 "Learn More" "products/buce" >}}
+{{< button "Learn More" "products/buce" >}}
 
 {{< /brick_image >}}
 
