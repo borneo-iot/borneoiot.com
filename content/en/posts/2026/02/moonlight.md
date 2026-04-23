@@ -1,7 +1,7 @@
 ---
 title: "Moonlight Simulation Now Available"
 seo:
-  title: "Moonlight Simulation Now Live on the Open-Source Borneo-IoT Dimmer"
+  title: "Moonlight Simulation Now Live on the Open-Source Borneo-IoT LED Controller"
 image: /uploads/gallery/moon.jpg
 date: 2026-02-17 00:00:00
 tags:
@@ -11,7 +11,7 @@ tags:
   - feature
 ---
 
-Moonlight simulation now live on the open-source Borneo-IoT LED PWM dimmer.
+Moonlight simulation now live on the open-source Borneo-IoT LED PWM controller.
 
 We are excited to announce that the open-source Borneo-IoT controller now includes a built-in moonlight simulation feature. The microcontroller can use the current time together with a configured latitude and longitude to calculate the moon phase and the precise moonrise and moonset times. Those calculations run directly on the device so the controller can produce a smooth, natural moonlight curve without relying on external services.
 

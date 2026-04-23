@@ -31,7 +31,7 @@ Enable small manufacturers and makers to bring high-performance, smart aquarium 
 
 ### What We Offer
 
-- **Embedded dimmer:** BLC06E (OEM-focused), BLC10 (10-channel flagship model), Buce (open-source)
+- **Embedded controller module:** BLC06E (OEM-focused), BLC10 (10-channel flagship model), Buce (open-source)
 - **Firmware platform:** production-proven, aquatic-focused control features
 - **Borneo‑IoT App:** brandable, with Wi‑Fi provisioning, discovery, scenes, and manual modes
 - **Docs & reference designs:** schematics, PCB layouts, dev/eval boards
@@ -63,7 +63,7 @@ We invite partners and contributors to join us in making advanced smart aquarium
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
 ### Zero-Code, Instant Launch
 
-Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, dimmer, and brand-ready app. Skip software development and focus on hardware design.
+Launch smart, App-controlled products in 4-6 weeks with our pre-integrated kit, including firmware, LED controller, and brand-ready app. Skip software development and focus on hardware design.
 
 ---
 

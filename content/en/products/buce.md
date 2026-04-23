@@ -1,12 +1,12 @@
 ---
-title: "Buce: 6-Channel All-in-One WiFi LED PWM Dimmer"
+title: "Buce: 6-Channel All-in-One WiFi LED PWM Controller"
 image: /uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg
 ---
 
 {{< brick_title >}}
-# Buce - 6-Channel LED PWM Dimmer
+# Buce - 6-Channel LED PWM Controller
 
-Easy-to-use embedded 6-channel smart LED PWM dimmer.
+Easy-to-use embedded 6-channel smart LED PWM controller.
 
 
 ![](/uploads/products/blc06mk1/gallery/buce-bottom-white-1.jpg)

@@ -3,7 +3,7 @@ title: cta
 ---
 ## Back on Crowd Supply
 
-Our [modular LED dimmer Buce](/products/buce) is officially **LIVE** on Crowd Supply. The crowdfunding campaign is now open.
+Our [modular LED controller Buce](/products/buce) is officially **LIVE** on Crowd Supply. The crowdfunding campaign is now open.
 
 Get early bird perks and join the journey.
 

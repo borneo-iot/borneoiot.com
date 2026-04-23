@@ -28,7 +28,7 @@ While this feature may not be essential for coral health, it adds a delightful v
 
 Cloud Simulation happens automatically in the background with random timing where shadow events occur every 5–30 minutes, just like real clouds. Each shadow reduces brightness by 30%–60% to create realistic darkness and believable cloud cover, while fading in and out smoothly over 30 seconds to 5 minutes without sudden changes. The effect is always subtle, designed to be noticeable but gentle, never jarring.
 
-Think of it as nature's dimmer switch—unpredictable, gentle, and always improving your tank's lighting.
+Think of it as nature's controller switch—unpredictable, gentle, and always improving your tank's lighting.
 
 ## Easy to Control
 

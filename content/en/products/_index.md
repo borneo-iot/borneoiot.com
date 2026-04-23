@@ -17,19 +17,19 @@ image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
 
 ---
 
-![BLC10 10-channel smart aquarium LED dimmer](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
-### BLC10 LED PWM Dimmer
+![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
+### BLC10 LED PWM Controller
 
-Our flagship 10-channel WiFi LED PWM dimmer.
+Our flagship 10-channel WiFi LED PWM controller.
 
 [](/products/blc10)
 
 ---
 
-![Buce open source smart aquarium LED PWM dimmer](/uploads/products/blc06e/thumb.jpg)
-### BLC06E Embedded LED PWM Dimmer
+![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06e/thumb.jpg)
+### BLC06E Embedded LED PWM Controller
 
-Our professional-grade 6-channel embedded WiFi LED PWM dimmer, designed for professional manufacturers.
+Our professional-grade 6-channel embedded WiFi LED PWM controller, designed for professional manufacturers.
 
 [](/products/blc06e)
 
@@ -50,7 +50,7 @@ Fully open-source WiFi smart LED DIY kit for nano reef aquariums.
 
 ---
 
-![Buce open source smart aquarium LED PWM dimmer](/uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
+![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
 ### Buce
 
 Open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module.

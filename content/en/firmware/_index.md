@@ -69,7 +69,7 @@ The Borneo-IoT firmware is designed and developed to professional standards, del
 
 ## Try It Now!
 
-Our open-source firmware includes a web-based flasher tool. Whether you have our Buce LED dimmer or just an inexpensive ESP32-C3 development board, you can flash firmware directly from your browser using our web flasher and experience the firmware's capabilities without installing any software.
+Our open-source firmware includes a web-based flasher tool. Whether you have our Buce LED controller or just an inexpensive ESP32-C3 development board, you can flash firmware directly from your browser using our web flasher and experience the firmware's capabilities without installing any software.
 
 {{< button "Try Now" "https://flasher.borneoiot.com" >}}
 
