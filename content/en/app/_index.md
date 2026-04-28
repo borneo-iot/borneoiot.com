@@ -17,7 +17,7 @@ Designed for ease of use and flexibility, it gives you complete control over you
     <img src="/uploads/illustrations/download-on-the-app-store.svg" alt="Download on App Store" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt; height: 60px;">
   </a>
 
-  <a href="https://github.com/borneo-iot/borneo/releases/download/release-app-latest/borneo-app-ce-latest.apk" style="display: inline-block;">
+  <a href="https://appdl.borneoiot.com/apk/latest/borneo-app-latest.apk" style="display: inline-block;">
     <img src="/uploads/illustrations/download-android-apk.svg" alt="Download Android APK file" style="display: block; width: auto; max-width: 100%; margin: 0pt 0pt; height: 60px; margin-left: 15pt;">
   </a>
 </p>
