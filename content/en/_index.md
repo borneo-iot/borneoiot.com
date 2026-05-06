@@ -9,11 +9,9 @@ seo:
 
 ![](/uploads/photos/home/hero2.jpg)
 
-# Instant Intelligence for Your Aquatic LED
+# Instant Intelligence for Your Aquatic LED — Sure as the Sun Rises.
 
-**Accelerate your brand or DIY project with our production-ready control ecosystem.**
-
-**From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
+**Accelerate your LED products or DIY project with our production-ready control ecosystem. From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
 
 - {{< button "Download Mobile App for Free" "app/" >}}
 - {{< button "Check Our Hardware" "products/" >}}
