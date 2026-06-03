@@ -59,7 +59,7 @@ Open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module.
 
 ---
 
-![6-Channel carrier/driver Board for Buce](/uploads/products/blm06mk1/gallery/IMG_20250323_165901.jpg)
+![6-Channel carrier/driver Board for Buce](/uploads/products/blm06mk2/gallery/blm06-cover.jpg)
 ### Bacopa
 
 6-Channel carrier/driver Board for Buce.

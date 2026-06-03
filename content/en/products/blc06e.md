@@ -3,14 +3,14 @@ title: "BLC06E: Professional 6-Channel Embedded Smart LED Controller"
 image: /uploads/products/blc10mk3/blc10mk3-white-2.jpg
 ---
 
-{{< brick_title2 >}}
+{{< brick_title >}}
 # BLC06E Embedded LED Controller
 
 ![](/uploads/products/blc06e/gallery/001-cover.jpg)
 
 **Professional embedded 6-channel smart LED PWM controller**
 
-{{< /brick_title2 >}}
+{{< /brick_title >}}
 
 
 
