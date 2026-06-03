@@ -8,7 +8,7 @@ title: "Bacopa: 6-Channel Carrier/Driver Board for Buce"
 
 ![](/uploads/products/blm06mk2/gallery/blm06-cover.jpg)
 
-- {{< button "Get It Now on PCBWay Store" "https://www.pcbway.com/project/gifts_detail/6_Channel_Wi_Fi_PWM_LED_Dimmer_for_Aquariums_adb134c9.html" >}}
+{{< button "Get It Now on PCBWay Store" "https://www.pcbway.com/project/gifts_detail/6_Channel_Wi_Fi_PWM_LED_Dimmer_for_Aquariums_adb134c9.html" >}}
 
 {{< /brick_title >}}
 
