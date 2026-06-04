@@ -1,5 +1,7 @@
 ---
 title: Webshop
+sitemap:
+  disable: true
 ---
 
 # Webshop

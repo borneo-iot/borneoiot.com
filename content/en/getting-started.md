@@ -1,6 +1,8 @@
 ---
 title: Getting Started
 weight: 2
+sitemap:
+  disable: true
 ---
 
 {{< brick_title2 >}}

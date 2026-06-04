@@ -1,5 +1,7 @@
 ---
 title: F.A.Q.
+sitemap:
+  disable: true
 image:
 --- 
 {{< brick_title >}}

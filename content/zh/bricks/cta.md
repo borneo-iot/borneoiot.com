@@ -1,5 +1,8 @@
 ---
 title: cta
+sitemap:
+  disable: true
+
 ---
 ## Start vandaag nog met Hugobricks!
 

@@ -1,5 +1,8 @@
 ---
 title: intro
+sitemap:
+  disable: true
+
 ---
 
 # The Ultimate Theme You Need To Start Your Hugo Website

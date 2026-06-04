@@ -1,5 +1,7 @@
 ---
 title: cta
+sitemap:
+  disable: true
 ---
 ## Back on Crowd Supply
 

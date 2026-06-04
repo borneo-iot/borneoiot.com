@@ -1,5 +1,8 @@
 ---
 title: Reviews
+sitemap:
+  disable: true
+
 ---
 
 ## Wat gebruikers zeggen over Hugobricks

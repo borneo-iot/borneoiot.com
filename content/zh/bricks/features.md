@@ -1,5 +1,8 @@
 ---
 title: features
+sitemap:
+  disable: true
+
 ---
 
 ## Het ultieme Hugo-thema

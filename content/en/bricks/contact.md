@@ -1,5 +1,8 @@
 ---
 title: contact
+sitemap:
+  disable: true
+
 ---
 
 ## Contact Us {#contactus}

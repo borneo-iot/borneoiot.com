@@ -1,5 +1,8 @@
 ---
 title: prices
+sitemap:
+  disable: true
+
 ---
 
 ## Our friendly pricing

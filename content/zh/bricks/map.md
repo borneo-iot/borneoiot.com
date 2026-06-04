@@ -1,5 +1,8 @@
 ---
 title: map
+sitemap:
+  disable: true
+
 ---
 
 ![](/uploads/map.png)

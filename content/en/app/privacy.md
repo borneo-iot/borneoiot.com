@@ -1,5 +1,7 @@
 ---
 title: Borneo-IoT Auqa Pro App Privacy Policy
+sitemap:
+  disable: true
 ---
 
 {{< brick_title >}}

@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+sitemap:
+  disable: true
 ---
 
 {{< brick_title >}}

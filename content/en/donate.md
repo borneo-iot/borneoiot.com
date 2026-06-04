@@ -1,5 +1,7 @@
 ---
 title: Donate
+sitemap:
+  disable: true
 ---
 {{< brick_title >}}
 

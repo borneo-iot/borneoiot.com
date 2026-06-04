@@ -1,5 +1,7 @@
 ---
 title: "Borneo-IoT Aqua Pro Terms of Services"
+sitemap:
+  disable: true
 ---
 
 {{< brick_title >}}

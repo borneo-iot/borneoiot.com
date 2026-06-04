@@ -1,5 +1,8 @@
 ---
 title: Cart
+sitemap:
+  disable: true
+
 ---
 
 #  Products in your cart

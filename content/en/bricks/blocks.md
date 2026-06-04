@@ -1,5 +1,7 @@
 ---
 title: blocks
+sitemap:
+  disable: true
 ---
 
 ## Alternative services 1
