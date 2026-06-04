@@ -1,5 +1,7 @@
 ---
 title: Thank You
+sitemap:
+  disable: true
 ---
 
 {{< brick_thanks >}}
