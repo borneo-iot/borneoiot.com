@@ -1,11 +1,5 @@
 
 {{- $inner := . -}}
-{{- if or (eq $inner "") (eq $inner nil) -}}
-    {{- $inner = "Empty brick found. Consider creating a 'content/bricks/contact.md' file." -}}
-    {{- with page.Site.GetPage "bricks/contact.md" -}}
-        {{- $inner = .RawContent -}}
-    {{- end -}}
-{{- end -}}
 <section class="contact">
     <div class="container twocols">
         <div>

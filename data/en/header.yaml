@@ -5,38 +5,31 @@ mobile_view_width: 1100
 menuitems:
   - title: App
     link: /app
+  - title: OEM/ODM Solutions
+    link: /solutions
   - title: Hardware
     link: /products
-  - title: Firmware
-    link: /firmware
-  - title: Blog
-    link: /blog
-  - title: About
-    link: /about
   - title: Resources
     link: ?resources_menu
     items:
+    - title: Firmware
+      link: /firmware
+    - title: Blog
+      link: /blog
     - title: Docs
       link: https://docs.borneoiot.com
     - title: Online Firmware Installer
       link: https://flasher.borneoiot.com
     - title: Download
       link: https://github.com/borneo-iot/borneo/releases
-  - title: Community
-    link: ?community_menu
-    items:
-    - title: GitHub
-      link: https://github.com/borneo-iot/borneo
-    - title: Reddit
-      link: https://www.reddit.com/r/borneoiot
-    - title: Discord
-      link: https://discord.gg/EFJTm7PpEs
-  - title: Contact
-    link: /about#contactus
+    - title: Crowd Supply
+      link: https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller
+  - title: About
+    link: /about
 
 cta:
   active: true
-  title: "Crowd Supply"
-  link: https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller
+  title: "Request a Quote"
+  link: /about#contactus
 
 preheader: Borneo-IoT

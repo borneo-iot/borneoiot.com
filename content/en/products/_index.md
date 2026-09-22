@@ -1,26 +1,29 @@
 ---
 title: "Hardware"
 image: /uploads/products/ulva6/gallery/ulva6-leds.jpg
+seo:
+  title: Aquarium LED Controller Platforms for Brands | Borneo IoT
+  description: Explore Borneo IoT's multi-channel WiFi LED PWM controller platforms for aquarium lighting brands, OEM projects, and product development teams.
 ---
 
 {{< brick_title2 >}}
 
 ![](/uploads/products/ulva6/gallery/ulva6-leds.jpg)
 
-# Our Hardware Products
+# Aquarium LED Controller Platforms
 
 {{< /brick_title2 >}}
 
 {{< brick_blocks >}}
 
-## For Manufacturers & Brands
+## For Manufacturers and Brands
 
 ---
 
 ![BLC10 10-channel smart aquarium LED controller](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 ### BLC10 LED PWM Controller
 
-Our flagship 10-channel WiFi LED PWM controller.
+Our flagship 10-channel WiFi LED PWM controller for connected aquarium lighting products.
 
 [](/products/blc10)
 
@@ -29,7 +32,7 @@ Our flagship 10-channel WiFi LED PWM controller.
 ![Buce open source smart aquarium LED PWM controller](/uploads/products/blc06e/thumb.jpg)
 ### BLC06E Embedded LED PWM Controller
 
-Our professional-grade 6-channel embedded WiFi LED PWM controller, designed for professional manufacturers.
+Our professional-grade 6-channel embedded WiFi LED PWM controller, designed for product integration and production.
 
 [](/products/blc06e)
 
@@ -70,4 +73,14 @@ Open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module.
 
 ---
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_cta >}}
+
+## Need a controller platform for your next product?
+
+We can help you evaluate the hardware, firmware, app, and manufacturing path for your project.
+
+{{< button "Talk to Our Engineering Team" "/about#contactus" >}}
+
+![](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
+
+{{< /brick_cta >}}

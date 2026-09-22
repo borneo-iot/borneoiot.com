@@ -138,5 +138,17 @@ Buce is an [OSHWA certificated](https://certification.oshwa.org/cn000017.html) o
 
 {{< /brick_wide >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_cta >}}
+
+## Back Buce on Crowd Supply
+
+Buce, our open-source BLC06 modular LED controller, is officially **LIVE** on Crowd Supply.
+
+Get early bird perks and be among the first to build with Buce.
+
+{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+
+![](/uploads/branding/crowd-supply-icon.svg)
+
+{{< /brick_cta >}}
 

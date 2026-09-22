@@ -104,4 +104,16 @@ Ulva-6 is controlled using our user-friendly and powerful Borneo Aqua Pro app.
 
 {{< /brick_image2 >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< brick_cta >}}
+
+## Back the Controller Behind Ulva-6
+
+Ulva-6 is powered by our open-source [Buce modular LED controller](/products/buce), now **LIVE** on Crowd Supply.
+
+Get early bird perks and support the open aquarium lighting ecosystem.
+
+{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+
+![](/uploads/branding/crowd-supply-icon.svg)
+
+{{< /brick_cta >}}

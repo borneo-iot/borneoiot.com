@@ -1,10 +1,4 @@
 {{- $inner := . -}}
-{{- if or (eq $inner "") (eq $inner nil) -}}
-    {{- $inner = "Empty brick found. Consider creating a 'content/bricks/webshop.md' file." -}}
-    {{- with page.Site.GetPage "bricks/webshop.md" -}}
-         {{- $inner = .RawContent -}}
-    {{- end -}}
-{{- end -}}
 {{- $products := where page.Site.RegularPages "Section" "products" -}}
 <section class="webshop-brick">
     {{ if $inner }}<div class="container small" style="text-align: center;">

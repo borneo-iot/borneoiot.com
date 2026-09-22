@@ -1,85 +1,103 @@
 ---
-title: Home
+title: Aquarium Lighting Control Systems for OEM/ODM
 seo:
-  title: Borneo IoT | Open Source Smart Aquarium Dimmers & OEM/ODM Solutions
-  description: "Borneo IoT provides modular, high-performance hardware solutions for smart aquarium lighting and automation. From the Ulva-6 smart reef LED to BLC06E OEM modules, we empower hobbyists and manufacturers."
+  title: Aquarium Lighting Control Systems for OEM/ODM | Borneo IoT
+  description: Borneo IoT helps aquarium lighting brands move from prototype to production with custom LED controllers, firmware, white-label apps, reference designs, and manufacturing support.
 ---
 
 {{< brick_title4 >}}
 
 ![](/uploads/photos/home/hero2.jpg)
 
-# Instant Intelligence for Your Aquatic LED — Sure as the Sun Rises.
+# Smart Aquarium Lighting Control Systems for OEM/ODM
 
-**Accelerate your LED products or DIY project with our production-ready control ecosystem. From firmware and white-label Apps to pre-flashed modules, we provide the professional tech stack to take your LED fixtures from concept to reality in record time.**
+**Bring your aquarium LED product to market with production-ready hardware, firmware, mobile apps, and manufacturing support from one technical partner.**
 
-- {{< button "Download Mobile App for Free" "app/" >}}
-- {{< button "Check Our Hardware" "products/" >}}
-- {{< button "Try The Firmware Web Installer" "firmware/" >}}
+- {{< button "Discuss Your Project" "/solutions/" >}}
+- {{< button "View Controller Platforms" "/products/" >}}
+- {{< button "Contact Our Team" "/about#contactus" >}}
 
 {{< /brick_title4 >}}
 
-
-
-{{< brick_video >}}
-
-## Meet Ulva-6
-
-
-**Ulva-6** is the world's first high-end, fully open-source WiFi smart LED DIY kit for nano reef aquariums.
-
-* **60W** rated LED power with 6-Channel: Blue, Royal Blue, Cold White, Red, Green, Violet + Ultraviolet.
-* **Designed with safety and stability as priorities**: ensuring stable operation for many years.
-* **Fully metallic construction** with no 3D-printed parts, assembly can be completed without electronic skills.
-
-<div class="btn-row" style="display:flex; gap:12px; flex-wrap:wrap; align-items:center;">
-  {{< button "More Info" "/products/ulva6" >}}
-  {{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
-</div>
-
-{{< video "/uploads/video/ulva6-720p.mp4" >}}
-
-{{< /brick_video >}}
-
 {{< brick_image2 >}}
 
-## Borneo-IoT App
+## One platform from prototype to shipment
 
-![](uploads/products/app/app.png)
+We help aquarium lighting brands and product teams reduce development risk with modular WiFi LED controllers, configurable firmware, white-label app experiences, and factory-ready test tools.
 
-* Scene management & devices grouping
-* Built-in ESPTouch WiFi provisioning and device discovery
-* Smart LED control functions:
-  * Multi-segment dimming for sunrise and sunset simulation with an easy setup mode
-  * Manual control mode
-* Dark theme
+**What we can deliver:**
 
-{{< button " More Info" "/app" >}}
+- Multi-channel PWM LED controller hardware and reference designs
+- Firmware customization, scheduling, provisioning, and local-first control
+- Branded mobile app features, localization, and onboarding
+- Mechanical integration, pilot-run support, and production test fixtures
+
+![](/uploads/products/blc10mk3/blc10mk3-white-2.jpg)
 
 {{< /brick_image2 >}}
 
 {{< brick_image >}}
 
-## Buce: 6-Channel All-in-One WiFi LED PWM Controller
+## Proven controller platforms
 
-Buce (Model BLC06MK1) is an innovative, open-source, 6-channel, all-in-one WiFi LED PWM embedded controller module. It’s designed for engineers passionate about DIY LED projects, especially in aquariums and photography.
+Start with an existing platform or use it as the basis for a custom product. BLC10 and BLC06E are designed for professional integration; Ulva-6 and Buce provide open reference hardware and real-world validation.
 
-![](uploads/products/blc06mk1/gallery/buce-top-and-bottom-coin-white-2.jpg)
-
-{{< button "Learn More" "products/buce" >}}
+{{< button "Compare Hardware Platforms" "/products/" >}}
 
 {{< /brick_image >}}
 
+{{< brick_image2 >}}
+
+## Borneo-IoT App and white-label control experience
+
+The Borneo-IoT App demonstrates the connected experience we can adapt for your brand: device discovery, WiFi provisioning, grouped devices, scenes, schedules, and multi-channel LED control. Use it as a reference for a branded app or integrate the workflow into your own software.
+
+![](/uploads/products/app/app.png)
+
+{{< button "Explore the App Platform" "/app" >}}
+
+{{< /brick_image2 >}}
+
+{{< brick_video >}}
+
+## See the platform in action
+
+Ulva-6 is an open reference product that demonstrates the control experience, firmware architecture, and hardware capabilities we can adapt for commercial aquarium lighting products.
+
+{{< video "/uploads/video/ulva6-720p.mp4" >}}
+
+{{< /brick_video >}}
+
+{{< brick_cta >}}
+
+## Back on Crowd Supply
+
+Our [Buce modular LED controller](/products/buce) is officially **LIVE** on Crowd Supply. The crowdfunding campaign is now open.
+
+Get early bird perks and join the journey.
+
+{{< button_cs "Subscribe on Crowd Supply" "https://www.crowdsupply.com/borneo-iot/buce-aquarium-led-controller" >}}
+
+![](/uploads/branding/crowd-supply-icon.svg)
+
+{{< /brick_cta >}}
+
 {{< brick_quote >}}
 
-## Be Free
+## Start with your product requirements
 
-All products we offer to DIY enthusiasts are fully open-source, with all code and designs available on GitHub.
+Tell us about your channels, LED drivers, connectivity, app, target volume, and timeline. We will help you select a platform and define the next engineering step.
 
-{{< button "GitHub Repo" "https://github.com/borneo-iot/borneo" >}}
+{{< button "Request an OEM/ODM Discussion" "/about#contactus" >}}
 
-![](uploads/photos/home/hero.jpg)
+![](/uploads/photos/home/hero.jpg)
 
 {{< /brick_quote >}}
 
-{{< brick_contact >}}{{< /brick_contact >}}
+{{< brick_contact >}}
+
+## Talk to Borneo IoT
+
+For product partnerships, evaluation units, firmware customization, and manufacturing support, contact our team with your project requirements.
+
+{{< /brick_contact >}}
